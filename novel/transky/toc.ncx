@@ -1,0 +1,4555 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta name="dtb:depth" content="1" />
+    <meta name="dtb:totalPageCount" content="0" />
+    <meta name="dtb:maxPageNumber" content="0" />
+  </head>
+  <docTitle>
+    <text>Table Of Contents</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1">
+      <navLabel>
+       <text>关于</text>
+      </navLabel>
+      <content src="about.html"/>
+    </navPoint>
+    <navPoint id="navPoint-2">
+      <navLabel>
+       <text>前言</text>
+      </navLabel>
+      <content src="foreword.html"/>
+    </navPoint>
+    <navPoint id="navPoint-3">
+      <navLabel>
+       <text>第一卷 · 朦胧的世界</text>
+      </navLabel>
+      <content src="01/index.html"/>
+      <navPoint id="navPoint-4">
+        <navLabel>
+         <text>1 · 出走</text>
+        </navLabel>
+        <content src="01/001.html"/>
+      </navPoint>
+      <navPoint id="navPoint-5">
+        <navLabel>
+         <text>2 · 小城市</text>
+        </navLabel>
+        <content src="01/002.html"/>
+      </navPoint>
+      <navPoint id="navPoint-6">
+        <navLabel>
+         <text>3 · 独自一人，不知方向</text>
+        </navLabel>
+        <content src="01/003.html"/>
+      </navPoint>
+      <navPoint id="navPoint-7">
+        <navLabel>
+         <text>4 · 消失的钱包</text>
+        </navLabel>
+        <content src="01/004.html"/>
+      </navPoint>
+      <navPoint id="navPoint-8">
+        <navLabel>
+         <text>5 · 流落街头</text>
+        </navLabel>
+        <content src="01/005.html"/>
+      </navPoint>
+      <navPoint id="navPoint-9">
+        <navLabel>
+         <text>6 · 人生的第一份工作</text>
+        </navLabel>
+        <content src="01/006.html"/>
+      </navPoint>
+      <navPoint id="navPoint-10">
+        <navLabel>
+         <text>7 · 老虎房东</text>
+        </navLabel>
+        <content src="01/007.html"/>
+      </navPoint>
+      <navPoint id="navPoint-11">
+        <navLabel>
+         <text>8 · 属于自己的小窝</text>
+        </navLabel>
+        <content src="01/008.html"/>
+      </navPoint>
+      <navPoint id="navPoint-12">
+        <navLabel>
+         <text>9 · 第一次上班（上）</text>
+        </navLabel>
+        <content src="01/009.html"/>
+      </navPoint>
+      <navPoint id="navPoint-13">
+        <navLabel>
+         <text>10 · 第一次上班（下）</text>
+        </navLabel>
+        <content src="01/010.html"/>
+      </navPoint>
+      <navPoint id="navPoint-14">
+        <navLabel>
+         <text>11 · 真正迈出那一步</text>
+        </navLabel>
+        <content src="01/011.html"/>
+      </navPoint>
+      <navPoint id="navPoint-15">
+        <navLabel>
+         <text>12 · 失眠</text>
+        </navLabel>
+        <content src="01/012.html"/>
+      </navPoint>
+      <navPoint id="navPoint-16">
+        <navLabel>
+         <text>13 · 那朦胧的雨</text>
+        </navLabel>
+        <content src="01/013.html"/>
+      </navPoint>
+      <navPoint id="navPoint-17">
+        <navLabel>
+         <text>14 · 苏雨晴的日记</text>
+        </navLabel>
+        <content src="01/014.html"/>
+      </navPoint>
+      <navPoint id="navPoint-18">
+        <navLabel>
+         <text>15 · 螺内酯的副作用</text>
+        </navLabel>
+        <content src="01/015.html"/>
+      </navPoint>
+      <navPoint id="navPoint-19">
+        <navLabel>
+         <text>16 · 看板娘</text>
+        </navLabel>
+        <content src="01/016.html"/>
+      </navPoint>
+      <navPoint id="navPoint-20">
+        <navLabel>
+         <text>17 · 日常用品采购</text>
+        </navLabel>
+        <content src="01/017.html"/>
+      </navPoint>
+      <navPoint id="navPoint-21">
+        <navLabel>
+         <text>18 · 身体的轻微变化</text>
+        </navLabel>
+        <content src="01/018.html"/>
+      </navPoint>
+      <navPoint id="navPoint-22">
+        <navLabel>
+         <text>19 · 上班后的第一个假日</text>
+        </navLabel>
+        <content src="01/019.html"/>
+      </navPoint>
+      <navPoint id="navPoint-23">
+        <navLabel>
+         <text>20 · 想要变成鹰的鱼</text>
+        </navLabel>
+        <content src="01/020.html"/>
+      </navPoint>
+      <navPoint id="navPoint-24">
+        <navLabel>
+         <text>21 · 黑猫</text>
+        </navLabel>
+        <content src="01/021.html"/>
+      </navPoint>
+      <navPoint id="navPoint-25">
+        <navLabel>
+         <text>22 · 勿忘我</text>
+        </navLabel>
+        <content src="01/022.html"/>
+      </navPoint>
+      <navPoint id="navPoint-26">
+        <navLabel>
+         <text>23 · 女色狼？</text>
+        </navLabel>
+        <content src="01/023.html"/>
+      </navPoint>
+      <navPoint id="navPoint-27">
+        <navLabel>
+         <text>24 · 曲奇</text>
+        </navLabel>
+        <content src="01/024.html"/>
+      </navPoint>
+      <navPoint id="navPoint-28">
+        <navLabel>
+         <text>25 · 找不到答案的梦</text>
+        </navLabel>
+        <content src="01/025.html"/>
+      </navPoint>
+      <navPoint id="navPoint-29">
+        <navLabel>
+         <text>26 · 黑网吧</text>
+        </navLabel>
+        <content src="01/026.html"/>
+      </navPoint>
+      <navPoint id="navPoint-30">
+        <navLabel>
+         <text>27 · 论坛</text>
+        </navLabel>
+        <content src="01/027.html"/>
+      </navPoint>
+      <navPoint id="navPoint-31">
+        <navLabel>
+         <text>28 · 莫空</text>
+        </navLabel>
+        <content src="01/028.html"/>
+      </navPoint>
+      <navPoint id="navPoint-32">
+        <navLabel>
+         <text>29 · 做客的猫</text>
+        </navLabel>
+        <content src="01/029.html"/>
+      </navPoint>
+      <navPoint id="navPoint-33">
+        <navLabel>
+         <text>30 · 猫和老鼠</text>
+        </navLabel>
+        <content src="01/030.html"/>
+      </navPoint>
+      <navPoint id="navPoint-34">
+        <navLabel>
+         <text>31 · 着凉</text>
+        </navLabel>
+        <content src="01/031.html"/>
+      </navPoint>
+      <navPoint id="navPoint-35">
+        <navLabel>
+         <text>32 · 好想找个人来陪</text>
+        </navLabel>
+        <content src="01/032.html"/>
+      </navPoint>
+      <navPoint id="navPoint-36">
+        <navLabel>
+         <text>33 · 和月橙的约定</text>
+        </navLabel>
+        <content src="01/033.html"/>
+      </navPoint>
+      <navPoint id="navPoint-37">
+        <navLabel>
+         <text>34 · 拥挤的早晨</text>
+        </navLabel>
+        <content src="01/034.html"/>
+      </navPoint>
+      <navPoint id="navPoint-38">
+        <navLabel>
+         <text>35 · 碰面</text>
+        </navLabel>
+        <content src="01/035.html"/>
+      </navPoint>
+      <navPoint id="navPoint-39">
+        <navLabel>
+         <text>36 · 百流山</text>
+        </navLabel>
+        <content src="01/036.html"/>
+      </navPoint>
+      <navPoint id="navPoint-40">
+        <navLabel>
+         <text>37 · 纯黑色的蝴蝶</text>
+        </navLabel>
+        <content src="01/037.html"/>
+      </navPoint>
+      <navPoint id="navPoint-41">
+        <navLabel>
+         <text>38 · 山巅绝景</text>
+        </navLabel>
+        <content src="01/038.html"/>
+      </navPoint>
+      <navPoint id="navPoint-42">
+        <navLabel>
+         <text>39 · 石铸的剑</text>
+        </navLabel>
+        <content src="01/039.html"/>
+      </navPoint>
+      <navPoint id="navPoint-43">
+        <navLabel>
+         <text>40 · 集装箱房</text>
+        </navLabel>
+        <content src="01/040.html"/>
+      </navPoint>
+      <navPoint id="navPoint-44">
+        <navLabel>
+         <text>41 · 巫女服</text>
+        </navLabel>
+        <content src="01/041.html"/>
+      </navPoint>
+      <navPoint id="navPoint-45">
+        <navLabel>
+         <text>42 · 野餐</text>
+        </navLabel>
+        <content src="01/042.html"/>
+      </navPoint>
+      <navPoint id="navPoint-46">
+        <navLabel>
+         <text>43 · 张思凡的生日</text>
+        </navLabel>
+        <content src="01/043.html"/>
+      </navPoint>
+      <navPoint id="navPoint-47">
+        <navLabel>
+         <text>44 · 同眠</text>
+        </navLabel>
+        <content src="01/044.html"/>
+      </navPoint>
+      <navPoint id="navPoint-48">
+        <navLabel>
+         <text>45 · 一个月</text>
+        </navLabel>
+        <content src="01/045.html"/>
+      </navPoint>
+      <navPoint id="navPoint-49">
+        <navLabel>
+         <text>46 · 咖啡</text>
+        </navLabel>
+        <content src="01/046.html"/>
+      </navPoint>
+      <navPoint id="navPoint-50">
+        <navLabel>
+         <text>47 · 普通的日子</text>
+        </navLabel>
+        <content src="01/047.html"/>
+      </navPoint>
+      <navPoint id="navPoint-51">
+        <navLabel>
+         <text>48 · 小混混</text>
+        </navLabel>
+        <content src="01/048.html"/>
+      </navPoint>
+      <navPoint id="navPoint-52">
+        <navLabel>
+         <text>49 · 勇敢还是胆小？</text>
+        </navLabel>
+        <content src="01/049.html"/>
+      </navPoint>
+      <navPoint id="navPoint-53">
+        <navLabel>
+         <text>50 · 曲奇，早安</text>
+        </navLabel>
+        <content src="01/050.html"/>
+      </navPoint>
+      <navPoint id="navPoint-54">
+        <navLabel>
+         <text>51 · 曲奇相伴的工作</text>
+        </navLabel>
+        <content src="01/051.html"/>
+      </navPoint>
+      <navPoint id="navPoint-55">
+        <navLabel>
+         <text>52 · 被爱情抓住的张思凡</text>
+        </navLabel>
+        <content src="01/052.html"/>
+      </navPoint>
+      <navPoint id="navPoint-56">
+        <navLabel>
+         <text>53 · 春祭</text>
+        </navLabel>
+        <content src="01/053.html"/>
+      </navPoint>
+      <navPoint id="navPoint-57">
+        <navLabel>
+         <text>54 · 孔庙</text>
+        </navLabel>
+        <content src="01/054.html"/>
+      </navPoint>
+      <navPoint id="navPoint-58">
+        <navLabel>
+         <text>55 · 两只思春的“少女”</text>
+        </navLabel>
+        <content src="01/055.html"/>
+      </navPoint>
+      <navPoint id="navPoint-59">
+        <navLabel>
+         <text>56 · 张思凡和孙昊的情话</text>
+        </navLabel>
+        <content src="01/056.html"/>
+      </navPoint>
+      <navPoint id="navPoint-60">
+        <navLabel>
+         <text>57 · 《我们所见到的就是真实吗？》</text>
+        </navLabel>
+        <content src="01/057.html"/>
+      </navPoint>
+      <navPoint id="navPoint-61">
+        <navLabel>
+         <text>58 · 春梦</text>
+        </navLabel>
+        <content src="01/058.html"/>
+      </navPoint>
+      <navPoint id="navPoint-62">
+        <navLabel>
+         <text>59 · 路见不平一声吼</text>
+        </navLabel>
+        <content src="01/059.html"/>
+      </navPoint>
+      <navPoint id="navPoint-63">
+        <navLabel>
+         <text>60 · 该出手时就出手</text>
+        </navLabel>
+        <content src="01/060.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-64">
+      <navLabel>
+       <text>第二卷 · 迷茫地前行</text>
+      </navLabel>
+      <content src="02/index.html"/>
+      <navPoint id="navPoint-65">
+        <navLabel>
+         <text>61 · 面馆老板的儿子</text>
+        </navLabel>
+        <content src="02/061.html"/>
+      </navPoint>
+      <navPoint id="navPoint-66">
+        <navLabel>
+         <text>62 · 哭了</text>
+        </navLabel>
+        <content src="02/062.html"/>
+      </navPoint>
+      <navPoint id="navPoint-67">
+        <navLabel>
+         <text>63 · 烤螃蟹</text>
+        </navLabel>
+        <content src="02/063.html"/>
+      </navPoint>
+      <navPoint id="navPoint-68">
+        <navLabel>
+         <text>64 · 登门道歉</text>
+        </navLabel>
+        <content src="02/064.html"/>
+      </navPoint>
+      <navPoint id="navPoint-69">
+        <navLabel>
+         <text>65 · 浑身的骨头都酸痛</text>
+        </navLabel>
+        <content src="02/065.html"/>
+      </navPoint>
+      <navPoint id="navPoint-70">
+        <navLabel>
+         <text>66 · 就好像什么都没有发生</text>
+        </navLabel>
+        <content src="02/066.html"/>
+      </navPoint>
+      <navPoint id="navPoint-71">
+        <navLabel>
+         <text>67 · 酒吧兼职（一）</text>
+        </navLabel>
+        <content src="02/067.html"/>
+      </navPoint>
+      <navPoint id="navPoint-72">
+        <navLabel>
+         <text>68 · 酒吧兼职（二）</text>
+        </navLabel>
+        <content src="02/068.html"/>
+      </navPoint>
+      <navPoint id="navPoint-73">
+        <navLabel>
+         <text>69 · 酒吧兼职（三）</text>
+        </navLabel>
+        <content src="02/069.html"/>
+      </navPoint>
+      <navPoint id="navPoint-74">
+        <navLabel>
+         <text>70 · 酒吧兼职（四）</text>
+        </navLabel>
+        <content src="02/070.html"/>
+      </navPoint>
+      <navPoint id="navPoint-75">
+        <navLabel>
+         <text>71 · 酒吧兼职（五）</text>
+        </navLabel>
+        <content src="02/071.html"/>
+      </navPoint>
+      <navPoint id="navPoint-76">
+        <navLabel>
+         <text>72 · 张思凡的心里话</text>
+        </navLabel>
+        <content src="02/072.html"/>
+      </navPoint>
+      <navPoint id="navPoint-77">
+        <navLabel>
+         <text>73 · 宿醉</text>
+        </navLabel>
+        <content src="02/073.html"/>
+      </navPoint>
+      <navPoint id="navPoint-78">
+        <navLabel>
+         <text>74 · 钓鱼</text>
+        </navLabel>
+        <content src="02/074.html"/>
+      </navPoint>
+      <navPoint id="navPoint-79">
+        <navLabel>
+         <text>75 · 悠扬的箫声</text>
+        </navLabel>
+        <content src="02/075.html"/>
+      </navPoint>
+      <navPoint id="navPoint-80">
+        <navLabel>
+         <text>76 · 发工资</text>
+        </navLabel>
+        <content src="02/076.html"/>
+      </navPoint>
+      <navPoint id="navPoint-81">
+        <navLabel>
+         <text>77 · 逛夜市</text>
+        </navLabel>
+        <content src="02/077.html"/>
+      </navPoint>
+      <navPoint id="navPoint-82">
+        <navLabel>
+         <text>78 · 预感</text>
+        </navLabel>
+        <content src="02/078.html"/>
+      </navPoint>
+      <navPoint id="navPoint-83">
+        <navLabel>
+         <text>79 · 找寻</text>
+        </navLabel>
+        <content src="02/079.html"/>
+      </navPoint>
+      <navPoint id="navPoint-84">
+        <navLabel>
+         <text>80 · 逃离</text>
+        </navLabel>
+        <content src="02/080.html"/>
+      </navPoint>
+      <navPoint id="navPoint-85">
+        <navLabel>
+         <text>81 · 听风吹</text>
+        </navLabel>
+        <content src="02/081.html"/>
+      </navPoint>
+      <navPoint id="navPoint-86">
+        <navLabel>
+         <text>82 · 院子</text>
+        </navLabel>
+        <content src="02/082.html"/>
+      </navPoint>
+      <navPoint id="navPoint-87">
+        <navLabel>
+         <text>83 · 煮粥</text>
+        </navLabel>
+        <content src="02/083.html"/>
+      </navPoint>
+      <navPoint id="navPoint-88">
+        <navLabel>
+         <text>84 · 黑暗料理</text>
+        </navLabel>
+        <content src="02/084.html"/>
+      </navPoint>
+      <navPoint id="navPoint-89">
+        <navLabel>
+         <text>85 · 又见胡玉牛</text>
+        </navLabel>
+        <content src="02/085.html"/>
+      </navPoint>
+      <navPoint id="navPoint-90">
+        <navLabel>
+         <text>86 · 隐藏在表相之下的灵魂</text>
+        </navLabel>
+        <content src="02/086.html"/>
+      </navPoint>
+      <navPoint id="navPoint-91">
+        <navLabel>
+         <text>87 · 步行街</text>
+        </navLabel>
+        <content src="02/087.html"/>
+      </navPoint>
+      <navPoint id="navPoint-92">
+        <navLabel>
+         <text>88 · 张思凡的大学</text>
+        </navLabel>
+        <content src="02/088.html"/>
+      </navPoint>
+      <navPoint id="navPoint-93">
+        <navLabel>
+         <text>89 · 吟诗作对</text>
+        </navLabel>
+        <content src="02/089.html"/>
+      </navPoint>
+      <navPoint id="navPoint-94">
+        <navLabel>
+         <text>90 · 园丁</text>
+        </navLabel>
+        <content src="02/090.html"/>
+      </navPoint>
+      <navPoint id="navPoint-95">
+        <navLabel>
+         <text>91 · 孙昊再一次前来</text>
+        </navLabel>
+        <content src="02/091.html"/>
+      </navPoint>
+      <navPoint id="navPoint-96">
+        <navLabel>
+         <text>92 · 十字绣</text>
+        </navLabel>
+        <content src="02/092.html"/>
+      </navPoint>
+      <navPoint id="navPoint-97">
+        <navLabel>
+         <text>93 · 小河边的莫空</text>
+        </navLabel>
+        <content src="02/093.html"/>
+      </navPoint>
+      <navPoint id="navPoint-98">
+        <navLabel>
+         <text>94 · 张思凡和孙昊的不可描述</text>
+        </navLabel>
+        <content src="02/094.html"/>
+      </navPoint>
+      <navPoint id="navPoint-99">
+        <navLabel>
+         <text>95 · 小说和历史的区别</text>
+        </navLabel>
+        <content src="02/095.html"/>
+      </navPoint>
+      <navPoint id="navPoint-100">
+        <navLabel>
+         <text>96 · 胡玉牛来访</text>
+        </navLabel>
+        <content src="02/096.html"/>
+      </navPoint>
+      <navPoint id="navPoint-101">
+        <navLabel>
+         <text>97 · 被发现的秘密</text>
+        </navLabel>
+        <content src="02/097.html"/>
+      </navPoint>
+      <navPoint id="navPoint-102">
+        <navLabel>
+         <text>98 · 胡玉牛的诉说</text>
+        </navLabel>
+        <content src="02/098.html"/>
+      </navPoint>
+      <navPoint id="navPoint-103">
+        <navLabel>
+         <text>99 · 平淡的田园生活</text>
+        </navLabel>
+        <content src="02/099.html"/>
+      </navPoint>
+      <navPoint id="navPoint-104">
+        <navLabel>
+         <text>100 · 安静的田园生活</text>
+        </navLabel>
+        <content src="02/100.html"/>
+      </navPoint>
+      <navPoint id="navPoint-105">
+        <navLabel>
+         <text>101 · 方莜莜（上）</text>
+        </navLabel>
+        <content src="02/101.html"/>
+      </navPoint>
+      <navPoint id="navPoint-106">
+        <navLabel>
+         <text>102 · 方莜莜（下）</text>
+        </navLabel>
+        <content src="02/102.html"/>
+      </navPoint>
+      <navPoint id="navPoint-107">
+        <navLabel>
+         <text>103 · 两个人都喝醉了</text>
+        </navLabel>
+        <content src="02/103.html"/>
+      </navPoint>
+      <navPoint id="navPoint-108">
+        <navLabel>
+         <text>104 · 三人同眠</text>
+        </navLabel>
+        <content src="02/104.html"/>
+      </navPoint>
+      <navPoint id="navPoint-109">
+        <navLabel>
+         <text>105 · 连绵的阴雨天</text>
+        </navLabel>
+        <content src="02/105.html"/>
+      </navPoint>
+      <navPoint id="navPoint-110">
+        <navLabel>
+         <text>106 · 方莜莜的厨艺</text>
+        </navLabel>
+        <content src="02/106.html"/>
+      </navPoint>
+      <navPoint id="navPoint-111">
+        <navLabel>
+         <text>107 · 找工作</text>
+        </navLabel>
+        <content src="02/107.html"/>
+      </navPoint>
+      <navPoint id="navPoint-112">
+        <navLabel>
+         <text>108 · 租房子</text>
+        </navLabel>
+        <content src="02/108.html"/>
+      </navPoint>
+      <navPoint id="navPoint-113">
+        <navLabel>
+         <text>109 · 安眠药</text>
+        </navLabel>
+        <content src="02/109.html"/>
+      </navPoint>
+      <navPoint id="navPoint-114">
+        <navLabel>
+         <text>110 · 搬家</text>
+        </navLabel>
+        <content src="02/110.html"/>
+      </navPoint>
+      <navPoint id="navPoint-115">
+        <navLabel>
+         <text>111 · 布置自己的新家</text>
+        </navLabel>
+        <content src="02/111.html"/>
+      </navPoint>
+      <navPoint id="navPoint-116">
+        <navLabel>
+         <text>112 · 梦见一场大雨</text>
+        </navLabel>
+        <content src="02/112.html"/>
+      </navPoint>
+      <navPoint id="navPoint-117">
+        <navLabel>
+         <text>113 · 大清早</text>
+        </navLabel>
+        <content src="02/113.html"/>
+      </navPoint>
+      <navPoint id="navPoint-118">
+        <navLabel>
+         <text>114 · 初次在超市上班</text>
+        </navLabel>
+        <content src="02/114.html"/>
+      </navPoint>
+      <navPoint id="navPoint-119">
+        <navLabel>
+         <text>115 · 第一天的工作</text>
+        </navLabel>
+        <content src="02/115.html"/>
+      </navPoint>
+      <navPoint id="navPoint-120">
+        <navLabel>
+         <text>116 · 矮个子一米六</text>
+        </navLabel>
+        <content src="02/116.html"/>
+      </navPoint>
+      <navPoint id="navPoint-121">
+        <navLabel>
+         <text>117 · 瓢盆大雨</text>
+        </navLabel>
+        <content src="02/117.html"/>
+      </navPoint>
+      <navPoint id="navPoint-122">
+        <navLabel>
+         <text>118 · 挡住风的他和遮住雨的伞</text>
+        </navLabel>
+        <content src="02/118.html"/>
+      </navPoint>
+      <navPoint id="navPoint-123">
+        <navLabel>
+         <text>119 · 雨鞋</text>
+        </navLabel>
+        <content src="02/119.html"/>
+      </navPoint>
+      <navPoint id="navPoint-124">
+        <navLabel>
+         <text>120 · 扫码的工作</text>
+        </navLabel>
+        <content src="02/120.html"/>
+      </navPoint>
+      <navPoint id="navPoint-125">
+        <navLabel>
+         <text>121 · 冉空城</text>
+        </navLabel>
+        <content src="02/121.html"/>
+      </navPoint>
+      <navPoint id="navPoint-126">
+        <navLabel>
+         <text>122 · 羡慕？嫉妒？</text>
+        </navLabel>
+        <content src="02/122.html"/>
+      </navPoint>
+      <navPoint id="navPoint-127">
+        <navLabel>
+         <text>123 · 胡玉牛的面点手艺</text>
+        </navLabel>
+        <content src="02/123.html"/>
+      </navPoint>
+      <navPoint id="navPoint-128">
+        <navLabel>
+         <text>124 · 拨通了的号码</text>
+        </navLabel>
+        <content src="02/124.html"/>
+      </navPoint>
+      <navPoint id="navPoint-129">
+        <navLabel>
+         <text>125 · 一夜未眠</text>
+        </navLabel>
+        <content src="02/125.html"/>
+      </navPoint>
+      <navPoint id="navPoint-130">
+        <navLabel>
+         <text>126 · 浑浑噩噩的感觉</text>
+        </navLabel>
+        <content src="02/126.html"/>
+      </navPoint>
+      <navPoint id="navPoint-131">
+        <navLabel>
+         <text>127 · 超薄弹力贴身</text>
+        </navLabel>
+        <content src="02/127.html"/>
+      </navPoint>
+      <navPoint id="navPoint-132">
+        <navLabel>
+         <text>128 · 七度空间少女系列</text>
+        </navLabel>
+        <content src="02/128.html"/>
+      </navPoint>
+      <navPoint id="navPoint-133">
+        <navLabel>
+         <text>129 · 工作的日常（上）</text>
+        </navLabel>
+        <content src="02/129.html"/>
+      </navPoint>
+      <navPoint id="navPoint-134">
+        <navLabel>
+         <text>130 · 工作的日常（中）</text>
+        </navLabel>
+        <content src="02/130.html"/>
+      </navPoint>
+      <navPoint id="navPoint-135">
+        <navLabel>
+         <text>131 · 工作的日常（下）</text>
+        </navLabel>
+        <content src="02/131.html"/>
+      </navPoint>
+      <navPoint id="navPoint-136">
+        <navLabel>
+         <text>132 · 荡秋千的猫</text>
+        </navLabel>
+        <content src="02/132.html"/>
+      </navPoint>
+      <navPoint id="navPoint-137">
+        <navLabel>
+         <text>133 · 生活中的哲学</text>
+        </navLabel>
+        <content src="02/133.html"/>
+      </navPoint>
+      <navPoint id="navPoint-138">
+        <navLabel>
+         <text>134 · 胡玉牛的烦恼</text>
+        </navLabel>
+        <content src="02/134.html"/>
+      </navPoint>
+      <navPoint id="navPoint-139">
+        <navLabel>
+         <text>135 · 莫空的日常（一）</text>
+        </navLabel>
+        <content src="02/135.html"/>
+      </navPoint>
+      <navPoint id="navPoint-140">
+        <navLabel>
+         <text>136 · 莫空的日常（二）</text>
+        </navLabel>
+        <content src="02/136.html"/>
+      </navPoint>
+      <navPoint id="navPoint-141">
+        <navLabel>
+         <text>137 · 莫空的日常（三）</text>
+        </navLabel>
+        <content src="02/137.html"/>
+      </navPoint>
+      <navPoint id="navPoint-142">
+        <navLabel>
+         <text>138 · 莫空的日常（四）</text>
+        </navLabel>
+        <content src="02/138.html"/>
+      </navPoint>
+      <navPoint id="navPoint-143">
+        <navLabel>
+         <text>139 · 莫空的日常（五）</text>
+        </navLabel>
+        <content src="02/139.html"/>
+      </navPoint>
+      <navPoint id="navPoint-144">
+        <navLabel>
+         <text>140 · 同性恋的传言</text>
+        </navLabel>
+        <content src="02/140.html"/>
+      </navPoint>
+      <navPoint id="navPoint-145">
+        <navLabel>
+         <text>141 · 哆啦A梦的百宝袋</text>
+        </navLabel>
+        <content src="02/141.html"/>
+      </navPoint>
+      <navPoint id="navPoint-146">
+        <navLabel>
+         <text>142 · 收银员的学习</text>
+        </navLabel>
+        <content src="02/142.html"/>
+      </navPoint>
+      <navPoint id="navPoint-147">
+        <navLabel>
+         <text>143 · 小城市的游乐园</text>
+        </navLabel>
+        <content src="02/143.html"/>
+      </navPoint>
+      <navPoint id="navPoint-148">
+        <navLabel>
+         <text>144 · 真·旋转木马</text>
+        </navLabel>
+        <content src="02/144.html"/>
+      </navPoint>
+      <navPoint id="navPoint-149">
+        <navLabel>
+         <text>145 · 萝莉体型</text>
+        </navLabel>
+        <content src="02/145.html"/>
+      </navPoint>
+      <navPoint id="navPoint-150">
+        <navLabel>
+         <text>146 · “萝莉”的优势（上）</text>
+        </navLabel>
+        <content src="02/146.html"/>
+      </navPoint>
+      <navPoint id="navPoint-151">
+        <navLabel>
+         <text>147 · “萝莉”的优势（下）</text>
+        </navLabel>
+        <content src="02/147.html"/>
+      </navPoint>
+      <navPoint id="navPoint-152">
+        <navLabel>
+         <text>148 · 动人的歌声</text>
+        </navLabel>
+        <content src="02/148.html"/>
+      </navPoint>
+      <navPoint id="navPoint-153">
+        <navLabel>
+         <text>149 · 打地铺</text>
+        </navLabel>
+        <content src="02/149.html"/>
+      </navPoint>
+      <navPoint id="navPoint-154">
+        <navLabel>
+         <text>150 · 夜话</text>
+        </navLabel>
+        <content src="02/150.html"/>
+      </navPoint>
+      <navPoint id="navPoint-155">
+        <navLabel>
+         <text>151 · 相识</text>
+        </navLabel>
+        <content src="02/151.html"/>
+      </navPoint>
+      <navPoint id="navPoint-156">
+        <navLabel>
+         <text>152 · 相知</text>
+        </navLabel>
+        <content src="02/152.html"/>
+      </navPoint>
+      <navPoint id="navPoint-157">
+        <navLabel>
+         <text>153 · 前台收银</text>
+        </navLabel>
+        <content src="02/153.html"/>
+      </navPoint>
+      <navPoint id="navPoint-158">
+        <navLabel>
+         <text>154 · 前台纠纷</text>
+        </navLabel>
+        <content src="02/154.html"/>
+      </navPoint>
+      <navPoint id="navPoint-159">
+        <navLabel>
+         <text>155 · 平静的日常</text>
+        </navLabel>
+        <content src="02/155.html"/>
+      </navPoint>
+      <navPoint id="navPoint-160">
+        <navLabel>
+         <text>156 · 林夕晨</text>
+        </navLabel>
+        <content src="02/156.html"/>
+      </navPoint>
+      <navPoint id="navPoint-161">
+        <navLabel>
+         <text>157 · 三无少女</text>
+        </navLabel>
+        <content src="02/157.html"/>
+      </navPoint>
+      <navPoint id="navPoint-162">
+        <navLabel>
+         <text>158 · 胸部按摩</text>
+        </navLabel>
+        <content src="02/158.html"/>
+      </navPoint>
+      <navPoint id="navPoint-163">
+        <navLabel>
+         <text>159 · 优雅的淑女</text>
+        </navLabel>
+        <content src="02/159.html"/>
+      </navPoint>
+      <navPoint id="navPoint-164">
+        <navLabel>
+         <text>160 · 彩色铅笔画</text>
+        </navLabel>
+        <content src="02/160.html"/>
+      </navPoint>
+      <navPoint id="navPoint-165">
+        <navLabel>
+         <text>161 · 温润的小手</text>
+        </navLabel>
+        <content src="02/161.html"/>
+      </navPoint>
+      <navPoint id="navPoint-166">
+        <navLabel>
+         <text>162 · 新郎的梦</text>
+        </navLabel>
+        <content src="02/162.html"/>
+      </navPoint>
+      <navPoint id="navPoint-167">
+        <navLabel>
+         <text>163 · 目送离开</text>
+        </navLabel>
+        <content src="02/163.html"/>
+      </navPoint>
+      <navPoint id="navPoint-168">
+        <navLabel>
+         <text>164 · 部门调动</text>
+        </navLabel>
+        <content src="02/164.html"/>
+      </navPoint>
+      <navPoint id="navPoint-169">
+        <navLabel>
+         <text>165 · 跳脱的部门主管</text>
+        </navLabel>
+        <content src="02/165.html"/>
+      </navPoint>
+      <navPoint id="navPoint-170">
+        <navLabel>
+         <text>166 · 抄写退货单</text>
+        </navLabel>
+        <content src="02/166.html"/>
+      </navPoint>
+      <navPoint id="navPoint-171">
+        <navLabel>
+         <text>167 · 苏雨晴的自制蛋糕</text>
+        </navLabel>
+        <content src="02/167.html"/>
+      </navPoint>
+      <navPoint id="navPoint-172">
+        <navLabel>
+         <text>168 · 胡玉牛的女装</text>
+        </navLabel>
+        <content src="02/168.html"/>
+      </navPoint>
+      <navPoint id="navPoint-173">
+        <navLabel>
+         <text>169 · 胡玉牛和莫空的邂逅</text>
+        </navLabel>
+        <content src="02/169.html"/>
+      </navPoint>
+      <navPoint id="navPoint-174">
+        <navLabel>
+         <text>170 · 天神和女神的故事</text>
+        </navLabel>
+        <content src="02/170.html"/>
+      </navPoint>
+      <navPoint id="navPoint-175">
+        <navLabel>
+         <text>171 · 去集装箱房度假（上）</text>
+        </navLabel>
+        <content src="02/171.html"/>
+      </navPoint>
+      <navPoint id="navPoint-176">
+        <navLabel>
+         <text>172 · 去集装箱房度假（下）</text>
+        </navLabel>
+        <content src="02/172.html"/>
+      </navPoint>
+      <navPoint id="navPoint-177">
+        <navLabel>
+         <text>173 · 安念</text>
+        </navLabel>
+        <content src="02/173.html"/>
+      </navPoint>
+      <navPoint id="navPoint-178">
+        <navLabel>
+         <text>174 · 春宫阁</text>
+        </navLabel>
+        <content src="02/174.html"/>
+      </navPoint>
+      <navPoint id="navPoint-179">
+        <navLabel>
+         <text>175 · 捉知了</text>
+        </navLabel>
+        <content src="02/175.html"/>
+      </navPoint>
+      <navPoint id="navPoint-180">
+        <navLabel>
+         <text>176 · 油炸知了</text>
+        </navLabel>
+        <content src="02/176.html"/>
+      </navPoint>
+      <navPoint id="navPoint-181">
+        <navLabel>
+         <text>177 · 意外的美味</text>
+        </navLabel>
+        <content src="02/177.html"/>
+      </navPoint>
+      <navPoint id="navPoint-182">
+        <navLabel>
+         <text>178 · 一个无法入眠的夜</text>
+        </navLabel>
+        <content src="02/178.html"/>
+      </navPoint>
+      <navPoint id="navPoint-183">
+        <navLabel>
+         <text>179 · 酒柜</text>
+        </navLabel>
+        <content src="02/179.html"/>
+      </navPoint>
+      <navPoint id="navPoint-184">
+        <navLabel>
+         <text>180 · 排班表</text>
+        </navLabel>
+        <content src="02/180.html"/>
+      </navPoint>
+      <navPoint id="navPoint-185">
+        <navLabel>
+         <text>181 · 明争暗斗</text>
+        </navLabel>
+        <content src="02/181.html"/>
+      </navPoint>
+      <navPoint id="navPoint-186">
+        <navLabel>
+         <text>182 · 勾心斗角</text>
+        </navLabel>
+        <content src="02/182.html"/>
+      </navPoint>
+      <navPoint id="navPoint-187">
+        <navLabel>
+         <text>183 · 胡玉牛的一天（上）</text>
+        </navLabel>
+        <content src="02/183.html"/>
+      </navPoint>
+      <navPoint id="navPoint-188">
+        <navLabel>
+         <text>184 · 胡玉牛的一天（下）</text>
+        </navLabel>
+        <content src="02/184.html"/>
+      </navPoint>
+      <navPoint id="navPoint-189">
+        <navLabel>
+         <text>185 · 晚班</text>
+        </navLabel>
+        <content src="02/185.html"/>
+      </navPoint>
+      <navPoint id="navPoint-190">
+        <navLabel>
+         <text>186 · 陈淑艳的总结报告</text>
+        </navLabel>
+        <content src="02/186.html"/>
+      </navPoint>
+      <navPoint id="navPoint-191">
+        <navLabel>
+         <text>187 · 深夜的街道</text>
+        </navLabel>
+        <content src="02/187.html"/>
+      </navPoint>
+      <navPoint id="navPoint-192">
+        <navLabel>
+         <text>188 · 雨中的街道</text>
+        </navLabel>
+        <content src="02/188.html"/>
+      </navPoint>
+      <navPoint id="navPoint-193">
+        <navLabel>
+         <text>189 · 张思凡的心事（上）</text>
+        </navLabel>
+        <content src="02/189.html"/>
+      </navPoint>
+      <navPoint id="navPoint-194">
+        <navLabel>
+         <text>190 · 张思凡的心事（下）</text>
+        </navLabel>
+        <content src="02/190.html"/>
+      </navPoint>
+      <navPoint id="navPoint-195">
+        <navLabel>
+         <text>191 · 森林冒险（一）</text>
+        </navLabel>
+        <content src="02/191.html"/>
+      </navPoint>
+      <navPoint id="navPoint-196">
+        <navLabel>
+         <text>192 · 森林冒险（二）</text>
+        </navLabel>
+        <content src="02/192.html"/>
+      </navPoint>
+      <navPoint id="navPoint-197">
+        <navLabel>
+         <text>193 · 森林冒险（三）</text>
+        </navLabel>
+        <content src="02/193.html"/>
+      </navPoint>
+      <navPoint id="navPoint-198">
+        <navLabel>
+         <text>194 · 森林冒险（四）</text>
+        </navLabel>
+        <content src="02/194.html"/>
+      </navPoint>
+      <navPoint id="navPoint-199">
+        <navLabel>
+         <text>195 · 森林冒险（五）</text>
+        </navLabel>
+        <content src="02/195.html"/>
+      </navPoint>
+      <navPoint id="navPoint-200">
+        <navLabel>
+         <text>196 · 森林冒险（六）</text>
+        </navLabel>
+        <content src="02/196.html"/>
+      </navPoint>
+      <navPoint id="navPoint-201">
+        <navLabel>
+         <text>197 · 森林冒险（七）</text>
+        </navLabel>
+        <content src="02/197.html"/>
+      </navPoint>
+      <navPoint id="navPoint-202">
+        <navLabel>
+         <text>198 · 森林冒险（八）</text>
+        </navLabel>
+        <content src="02/198.html"/>
+      </navPoint>
+      <navPoint id="navPoint-203">
+        <navLabel>
+         <text>199 · 阳光、大海和沙滩（上）</text>
+        </navLabel>
+        <content src="02/199.html"/>
+      </navPoint>
+      <navPoint id="navPoint-204">
+        <navLabel>
+         <text>200 · 阳光、大海和沙滩（下）</text>
+        </navLabel>
+        <content src="02/200.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-205">
+      <navLabel>
+       <text>第三卷 · 同行的远路</text>
+      </navLabel>
+      <content src="03/index.html"/>
+      <navPoint id="navPoint-206">
+        <navLabel>
+         <text>201 · 海边别墅（上）</text>
+        </navLabel>
+        <content src="03/201.html"/>
+      </navPoint>
+      <navPoint id="navPoint-207">
+        <navLabel>
+         <text>202 · 海边别墅（下）</text>
+        </navLabel>
+        <content src="03/202.html"/>
+      </navPoint>
+      <navPoint id="navPoint-208">
+        <navLabel>
+         <text>203 · 夜间飙车（上）</text>
+        </navLabel>
+        <content src="03/203.html"/>
+      </navPoint>
+      <navPoint id="navPoint-209">
+        <navLabel>
+         <text>204 · 夜间飙车（下）</text>
+        </navLabel>
+        <content src="03/204.html"/>
+      </navPoint>
+      <navPoint id="navPoint-210">
+        <navLabel>
+         <text>205 · 雌性激素注射针（上）</text>
+        </navLabel>
+        <content src="03/205.html"/>
+      </navPoint>
+      <navPoint id="navPoint-211">
+        <navLabel>
+         <text>206 · 雌性激素注射针（下）</text>
+        </navLabel>
+        <content src="03/206.html"/>
+      </navPoint>
+      <navPoint id="navPoint-212">
+        <navLabel>
+         <text>207 · 一个人上班</text>
+        </navLabel>
+        <content src="03/207.html"/>
+      </navPoint>
+      <navPoint id="navPoint-213">
+        <navLabel>
+         <text>208 · 孙昊又来了</text>
+        </navLabel>
+        <content src="03/208.html"/>
+      </navPoint>
+      <navPoint id="navPoint-214">
+        <navLabel>
+         <text>209 · 躁动</text>
+        </navLabel>
+        <content src="03/209.html"/>
+      </navPoint>
+      <navPoint id="navPoint-215">
+        <navLabel>
+         <text>210 · 童颜巨乳的杀伤力</text>
+        </navLabel>
+        <content src="03/210.html"/>
+      </navPoint>
+      <navPoint id="navPoint-216">
+        <navLabel>
+         <text>211 · 舔</text>
+        </navLabel>
+        <content src="03/211.html"/>
+      </navPoint>
+      <navPoint id="navPoint-217">
+        <navLabel>
+         <text>212 · 榨干</text>
+        </navLabel>
+        <content src="03/212.html"/>
+      </navPoint>
+      <navPoint id="navPoint-218">
+        <navLabel>
+         <text>213 · 散心（上）</text>
+        </navLabel>
+        <content src="03/213.html"/>
+      </navPoint>
+      <navPoint id="navPoint-219">
+        <navLabel>
+         <text>214 · 散心（下）</text>
+        </navLabel>
+        <content src="03/214.html"/>
+      </navPoint>
+      <navPoint id="navPoint-220">
+        <navLabel>
+         <text>215 · 夏日的河堤（上）</text>
+        </navLabel>
+        <content src="03/215.html"/>
+      </navPoint>
+      <navPoint id="navPoint-221">
+        <navLabel>
+         <text>216 · 夏日的河堤（下）</text>
+        </navLabel>
+        <content src="03/216.html"/>
+      </navPoint>
+      <navPoint id="navPoint-222">
+        <navLabel>
+         <text>217 · 淋雨（上）</text>
+        </navLabel>
+        <content src="03/217.html"/>
+      </navPoint>
+      <navPoint id="navPoint-223">
+        <navLabel>
+         <text>218 · 淋雨（下）</text>
+        </navLabel>
+        <content src="03/218.html"/>
+      </navPoint>
+      <navPoint id="navPoint-224">
+        <navLabel>
+         <text>219 · 全身除毛</text>
+        </navLabel>
+        <content src="03/219.html"/>
+      </navPoint>
+      <navPoint id="navPoint-225">
+        <navLabel>
+         <text>220 · 后天性天然呆</text>
+        </navLabel>
+        <content src="03/220.html"/>
+      </navPoint>
+      <navPoint id="navPoint-226">
+        <navLabel>
+         <text>221 · 龙卷风</text>
+        </navLabel>
+        <content src="03/221.html"/>
+      </navPoint>
+      <navPoint id="navPoint-227">
+        <navLabel>
+         <text>222 · 严重发烧</text>
+        </navLabel>
+        <content src="03/222.html"/>
+      </navPoint>
+      <navPoint id="navPoint-228">
+        <navLabel>
+         <text>223 · 呓语</text>
+        </navLabel>
+        <content src="03/223.html"/>
+      </navPoint>
+      <navPoint id="navPoint-229">
+        <navLabel>
+         <text>224 · 虚弱</text>
+        </navLabel>
+        <content src="03/224.html"/>
+      </navPoint>
+      <navPoint id="navPoint-230">
+        <navLabel>
+         <text>225 · 喂食</text>
+        </navLabel>
+        <content src="03/225.html"/>
+      </navPoint>
+      <navPoint id="navPoint-231">
+        <navLabel>
+         <text>226 · 停电</text>
+        </navLabel>
+        <content src="03/226.html"/>
+      </navPoint>
+      <navPoint id="navPoint-232">
+        <navLabel>
+         <text>227 · 悬疑鬼故事</text>
+        </navLabel>
+        <content src="03/227.html"/>
+      </navPoint>
+      <navPoint id="navPoint-233">
+        <navLabel>
+         <text>228 · 恶作剧</text>
+        </navLabel>
+        <content src="03/228.html"/>
+      </navPoint>
+      <navPoint id="navPoint-234">
+        <navLabel>
+         <text>229 · 融化的冰淇淋</text>
+        </navLabel>
+        <content src="03/229.html"/>
+      </navPoint>
+      <navPoint id="navPoint-235">
+        <navLabel>
+         <text>230 · 黑暗中的国王游戏</text>
+        </navLabel>
+        <content src="03/230.html"/>
+      </navPoint>
+      <navPoint id="navPoint-236">
+        <navLabel>
+         <text>231 · 暧昧的惩罚</text>
+        </navLabel>
+        <content src="03/231.html"/>
+      </navPoint>
+      <navPoint id="navPoint-237">
+        <navLabel>
+         <text>232 · 神清气爽</text>
+        </navLabel>
+        <content src="03/232.html"/>
+      </navPoint>
+      <navPoint id="navPoint-238">
+        <navLabel>
+         <text>233 · 台风过后</text>
+        </navLabel>
+        <content src="03/233.html"/>
+      </navPoint>
+      <navPoint id="navPoint-239">
+        <navLabel>
+         <text>234 · 芥末味棒棒糖</text>
+        </navLabel>
+        <content src="03/234.html"/>
+      </navPoint>
+      <navPoint id="navPoint-240">
+        <navLabel>
+         <text>235 · 炙热的艳阳</text>
+        </navLabel>
+        <content src="03/235.html"/>
+      </navPoint>
+      <navPoint id="navPoint-241">
+        <navLabel>
+         <text>236 · 好烟和劣烟</text>
+        </navLabel>
+        <content src="03/236.html"/>
+      </navPoint>
+      <navPoint id="navPoint-242">
+        <navLabel>
+         <text>237 · 一碗猪肉面（上）</text>
+        </navLabel>
+        <content src="03/237.html"/>
+      </navPoint>
+      <navPoint id="navPoint-243">
+        <navLabel>
+         <text>238 · 一碗猪肉面（下）</text>
+        </navLabel>
+        <content src="03/238.html"/>
+      </navPoint>
+      <navPoint id="navPoint-244">
+        <navLabel>
+         <text>239 · 刷墙工</text>
+        </navLabel>
+        <content src="03/239.html"/>
+      </navPoint>
+      <navPoint id="navPoint-245">
+        <navLabel>
+         <text>240 · 肯德基</text>
+        </navLabel>
+        <content src="03/240.html"/>
+      </navPoint>
+      <navPoint id="navPoint-246">
+        <navLabel>
+         <text>241 · 大白腿（上）</text>
+        </navLabel>
+        <content src="03/241.html"/>
+      </navPoint>
+      <navPoint id="navPoint-247">
+        <navLabel>
+         <text>242 · 大白腿（下）</text>
+        </navLabel>
+        <content src="03/242.html"/>
+      </navPoint>
+      <navPoint id="navPoint-248">
+        <navLabel>
+         <text>243 · 恐怖片（上）</text>
+        </navLabel>
+        <content src="03/243.html"/>
+      </navPoint>
+      <navPoint id="navPoint-249">
+        <navLabel>
+         <text>244 · 恐怖片（下）</text>
+        </navLabel>
+        <content src="03/244.html"/>
+      </navPoint>
+      <navPoint id="navPoint-250">
+        <navLabel>
+         <text>245 · 胡玉牛的爱情（一）</text>
+        </navLabel>
+        <content src="03/245.html"/>
+      </navPoint>
+      <navPoint id="navPoint-251">
+        <navLabel>
+         <text>246 · 胡玉牛的爱情（二）</text>
+        </navLabel>
+        <content src="03/246.html"/>
+      </navPoint>
+      <navPoint id="navPoint-252">
+        <navLabel>
+         <text>247 · 胡玉牛的爱情（三）</text>
+        </navLabel>
+        <content src="03/247.html"/>
+      </navPoint>
+      <navPoint id="navPoint-253">
+        <navLabel>
+         <text>248 · 胡玉牛的爱情（四）</text>
+        </navLabel>
+        <content src="03/248.html"/>
+      </navPoint>
+      <navPoint id="navPoint-254">
+        <navLabel>
+         <text>249 · 胡玉牛的爱情（五）</text>
+        </navLabel>
+        <content src="03/249.html"/>
+      </navPoint>
+      <navPoint id="navPoint-255">
+        <navLabel>
+         <text>250 · 胡玉牛的爱情（六）</text>
+        </navLabel>
+        <content src="03/250.html"/>
+      </navPoint>
+      <navPoint id="navPoint-256">
+        <navLabel>
+         <text>251 · 苏雨晴在超市工作的日常（上）</text>
+        </navLabel>
+        <content src="03/251.html"/>
+      </navPoint>
+      <navPoint id="navPoint-257">
+        <navLabel>
+         <text>252 · 苏雨晴在超市工作的日常（下）</text>
+        </navLabel>
+        <content src="03/252.html"/>
+      </navPoint>
+      <navPoint id="navPoint-258">
+        <navLabel>
+         <text>253 · 背锅侠王海峰</text>
+        </navLabel>
+        <content src="03/253.html"/>
+      </navPoint>
+      <navPoint id="navPoint-259">
+        <navLabel>
+         <text>254 · 职业打假人</text>
+        </navLabel>
+        <content src="03/254.html"/>
+      </navPoint>
+      <navPoint id="navPoint-260">
+        <navLabel>
+         <text>255 · 专业的和业余的</text>
+        </navLabel>
+        <content src="03/255.html"/>
+      </navPoint>
+      <navPoint id="navPoint-261">
+        <navLabel>
+         <text>256 · 检查保质期</text>
+        </navLabel>
+        <content src="03/256.html"/>
+      </navPoint>
+      <navPoint id="navPoint-262">
+        <navLabel>
+         <text>257 · 一个人在家</text>
+        </navLabel>
+        <content src="03/257.html"/>
+      </navPoint>
+      <navPoint id="navPoint-263">
+        <navLabel>
+         <text>258 · 冉空城的电话</text>
+        </navLabel>
+        <content src="03/258.html"/>
+      </navPoint>
+      <navPoint id="navPoint-264">
+        <navLabel>
+         <text>259 · 没有人的公园</text>
+        </navLabel>
+        <content src="03/259.html"/>
+      </navPoint>
+      <navPoint id="navPoint-265">
+        <navLabel>
+         <text>260 · 热闹的合租房</text>
+        </navLabel>
+        <content src="03/260.html"/>
+      </navPoint>
+      <navPoint id="navPoint-266">
+        <navLabel>
+         <text>261 · 黑檀木梳</text>
+        </navLabel>
+        <content src="03/261.html"/>
+      </navPoint>
+      <navPoint id="navPoint-267">
+        <navLabel>
+         <text>262 · 送给自己的礼物</text>
+        </navLabel>
+        <content src="03/262.html"/>
+      </navPoint>
+      <navPoint id="navPoint-268">
+        <navLabel>
+         <text>263 · 促销商品</text>
+        </navLabel>
+        <content src="03/263.html"/>
+      </navPoint>
+      <navPoint id="navPoint-269">
+        <navLabel>
+         <text>264 · 被搭讪了</text>
+        </navLabel>
+        <content src="03/264.html"/>
+      </navPoint>
+      <navPoint id="navPoint-270">
+        <navLabel>
+         <text>265 · 短信聊天</text>
+        </navLabel>
+        <content src="03/265.html"/>
+      </navPoint>
+      <navPoint id="navPoint-271">
+        <navLabel>
+         <text>266 · 哈士奇到底有多二</text>
+        </navLabel>
+        <content src="03/266.html"/>
+      </navPoint>
+      <navPoint id="navPoint-272">
+        <navLabel>
+         <text>267 · 和林夕晨一起去</text>
+        </navLabel>
+        <content src="03/267.html"/>
+      </navPoint>
+      <navPoint id="navPoint-273">
+        <navLabel>
+         <text>268 · 可乐味的冰淇淋</text>
+        </navLabel>
+        <content src="03/268.html"/>
+      </navPoint>
+      <navPoint id="navPoint-274">
+        <navLabel>
+         <text>269 · 占卜（上）</text>
+        </navLabel>
+        <content src="03/269.html"/>
+      </navPoint>
+      <navPoint id="navPoint-275">
+        <navLabel>
+         <text>270 · 占卜（下）</text>
+        </navLabel>
+        <content src="03/270.html"/>
+      </navPoint>
+      <navPoint id="navPoint-276">
+        <navLabel>
+         <text>271 · 深夜的星空</text>
+        </navLabel>
+        <content src="03/271.html"/>
+      </navPoint>
+      <navPoint id="navPoint-277">
+        <navLabel>
+         <text>272 · 不能说话的少女</text>
+        </navLabel>
+        <content src="03/272.html"/>
+      </navPoint>
+      <navPoint id="navPoint-278">
+        <navLabel>
+         <text>273 · 付账</text>
+        </navLabel>
+        <content src="03/273.html"/>
+      </navPoint>
+      <navPoint id="navPoint-279">
+        <navLabel>
+         <text>274 · 划破手指</text>
+        </navLabel>
+        <content src="03/274.html"/>
+      </navPoint>
+      <navPoint id="navPoint-280">
+        <navLabel>
+         <text>275 · 准备迎接大人物的小城市</text>
+        </navLabel>
+        <content src="03/275.html"/>
+      </navPoint>
+      <navPoint id="navPoint-281">
+        <navLabel>
+         <text>276 · 回忆里的老仆人</text>
+        </navLabel>
+        <content src="03/276.html"/>
+      </navPoint>
+      <navPoint id="navPoint-282">
+        <navLabel>
+         <text>277 · 莫空和大小姐</text>
+        </navLabel>
+        <content src="03/277.html"/>
+      </navPoint>
+      <navPoint id="navPoint-283">
+        <navLabel>
+         <text>278 · 苏雨晴和创可贴</text>
+        </navLabel>
+        <content src="03/278.html"/>
+      </navPoint>
+      <navPoint id="navPoint-284">
+        <navLabel>
+         <text>279 · 快开学了，你还会来吗？</text>
+        </navLabel>
+        <content src="03/279.html"/>
+      </navPoint>
+      <navPoint id="navPoint-285">
+        <navLabel>
+         <text>280 · 苏雨晴和平凡的少年</text>
+        </navLabel>
+        <content src="03/280.html"/>
+      </navPoint>
+      <navPoint id="navPoint-286">
+        <navLabel>
+         <text>281 · 胡玉牛村里的家（上）</text>
+        </navLabel>
+        <content src="03/281.html"/>
+      </navPoint>
+      <navPoint id="navPoint-287">
+        <navLabel>
+         <text>282 · 胡玉牛村里的家（下）</text>
+        </navLabel>
+        <content src="03/282.html"/>
+      </navPoint>
+      <navPoint id="navPoint-288">
+        <navLabel>
+         <text>283 · 快点找个女朋友</text>
+        </navLabel>
+        <content src="03/283.html"/>
+      </navPoint>
+      <navPoint id="navPoint-289">
+        <navLabel>
+         <text>284 · 妹子的声音！</text>
+        </navLabel>
+        <content src="03/284.html"/>
+      </navPoint>
+      <navPoint id="navPoint-290">
+        <navLabel>
+         <text>285 · 安念的追问</text>
+        </navLabel>
+        <content src="03/285.html"/>
+      </navPoint>
+      <navPoint id="navPoint-291">
+        <navLabel>
+         <text>286 · 给林夕晨当模特</text>
+        </navLabel>
+        <content src="03/286.html"/>
+      </navPoint>
+      <navPoint id="navPoint-292">
+        <navLabel>
+         <text>287 · 林夕晨的拥抱</text>
+        </navLabel>
+        <content src="03/287.html"/>
+      </navPoint>
+      <navPoint id="navPoint-293">
+        <navLabel>
+         <text>288 · 小混混们的善良</text>
+        </navLabel>
+        <content src="03/288.html"/>
+      </navPoint>
+      <navPoint id="navPoint-294">
+        <navLabel>
+         <text>289 · 再相遇</text>
+        </navLabel>
+        <content src="03/289.html"/>
+      </navPoint>
+      <navPoint id="navPoint-295">
+        <navLabel>
+         <text>290 · 闺房</text>
+        </navLabel>
+        <content src="03/290.html"/>
+      </navPoint>
+      <navPoint id="navPoint-296">
+        <navLabel>
+         <text>291 · 我……喜欢你</text>
+        </navLabel>
+        <content src="03/291.html"/>
+      </navPoint>
+      <navPoint id="navPoint-297">
+        <navLabel>
+         <text>292 · 柳韵的黑暗料理</text>
+        </navLabel>
+        <content src="03/292.html"/>
+      </navPoint>
+      <navPoint id="navPoint-298">
+        <navLabel>
+         <text>293 · 趴在大腿上睡着了</text>
+        </navLabel>
+        <content src="03/293.html"/>
+      </navPoint>
+      <navPoint id="navPoint-299">
+        <navLabel>
+         <text>294 · 蹭胸</text>
+        </navLabel>
+        <content src="03/294.html"/>
+      </navPoint>
+      <navPoint id="navPoint-300">
+        <navLabel>
+         <text>295 · 失去了蛋蛋的人生</text>
+        </navLabel>
+        <content src="03/295.html"/>
+      </navPoint>
+      <navPoint id="navPoint-301">
+        <navLabel>
+         <text>296 · 天语遥</text>
+        </navLabel>
+        <content src="03/296.html"/>
+      </navPoint>
+      <navPoint id="navPoint-302">
+        <navLabel>
+         <text>297 · 开学季</text>
+        </navLabel>
+        <content src="03/297.html"/>
+      </navPoint>
+      <navPoint id="navPoint-303">
+        <navLabel>
+         <text>298 · 刁难</text>
+        </navLabel>
+        <content src="03/298.html"/>
+      </navPoint>
+      <navPoint id="navPoint-304">
+        <navLabel>
+         <text>299 · 刻薄</text>
+        </navLabel>
+        <content src="03/299.html"/>
+      </navPoint>
+      <navPoint id="navPoint-305">
+        <navLabel>
+         <text>300 · 小弟们的看望</text>
+        </navLabel>
+        <content src="03/300.html"/>
+      </navPoint>
+      <navPoint id="navPoint-306">
+        <navLabel>
+         <text>301 · 自残</text>
+        </navLabel>
+        <content src="03/301.html"/>
+      </navPoint>
+      <navPoint id="navPoint-307">
+        <navLabel>
+         <text>302 · 选择</text>
+        </navLabel>
+        <content src="03/302.html"/>
+      </navPoint>
+      <navPoint id="navPoint-308">
+        <navLabel>
+         <text>303 · 是他们吗？</text>
+        </navLabel>
+        <content src="03/303.html"/>
+      </navPoint>
+      <navPoint id="navPoint-309">
+        <navLabel>
+         <text>304 · 接柳韵放学</text>
+        </navLabel>
+        <content src="03/304.html"/>
+      </navPoint>
+      <navPoint id="navPoint-310">
+        <navLabel>
+         <text>305 · 亲亲我我</text>
+        </navLabel>
+        <content src="03/305.html"/>
+      </navPoint>
+      <navPoint id="navPoint-311">
+        <navLabel>
+         <text>306 · 在我这里……过夜吧</text>
+        </navLabel>
+        <content src="03/306.html"/>
+      </navPoint>
+      <navPoint id="navPoint-312">
+        <navLabel>
+         <text>307 · 钻进怀里的小猫咪</text>
+        </navLabel>
+        <content src="03/307.html"/>
+      </navPoint>
+      <navPoint id="navPoint-313">
+        <navLabel>
+         <text>308 · 送柳韵上学</text>
+        </navLabel>
+        <content src="03/308.html"/>
+      </navPoint>
+      <navPoint id="navPoint-314">
+        <navLabel>
+         <text>309 · 吕布闪卡</text>
+        </navLabel>
+        <content src="03/309.html"/>
+      </navPoint>
+      <navPoint id="navPoint-315">
+        <navLabel>
+         <text>310 · 彩色小鸡</text>
+        </navLabel>
+        <content src="03/310.html"/>
+      </navPoint>
+      <navPoint id="navPoint-316">
+        <navLabel>
+         <text>311 · 病怏怏的大小姐</text>
+        </navLabel>
+        <content src="03/311.html"/>
+      </navPoint>
+      <navPoint id="navPoint-317">
+        <navLabel>
+         <text>312 · 在步行街巧遇张思凡</text>
+        </navLabel>
+        <content src="03/312.html"/>
+      </navPoint>
+      <navPoint id="navPoint-318">
+        <navLabel>
+         <text>313 · 林夕晨寄信</text>
+        </navLabel>
+        <content src="03/313.html"/>
+      </navPoint>
+      <navPoint id="navPoint-319">
+        <navLabel>
+         <text>314 · 陶艺</text>
+        </navLabel>
+        <content src="03/314.html"/>
+      </navPoint>
+      <navPoint id="navPoint-320">
+        <navLabel>
+         <text>315 · 当我们老去</text>
+        </navLabel>
+        <content src="03/315.html"/>
+      </navPoint>
+      <navPoint id="navPoint-321">
+        <navLabel>
+         <text>316 · 抢猫粮的小红鸡</text>
+        </navLabel>
+        <content src="03/316.html"/>
+      </navPoint>
+      <navPoint id="navPoint-322">
+        <navLabel>
+         <text>317 · 爱的便当</text>
+        </navLabel>
+        <content src="03/317.html"/>
+      </navPoint>
+      <navPoint id="navPoint-323">
+        <navLabel>
+         <text>318 · 喂你吃</text>
+        </navLabel>
+        <content src="03/318.html"/>
+      </navPoint>
+      <navPoint id="navPoint-324">
+        <navLabel>
+         <text>319 · 垃圾食品的副作用</text>
+        </navLabel>
+        <content src="03/319.html"/>
+      </navPoint>
+      <navPoint id="navPoint-325">
+        <navLabel>
+         <text>320 · 天语遥和游乐园</text>
+        </navLabel>
+        <content src="03/320.html"/>
+      </navPoint>
+      <navPoint id="navPoint-326">
+        <navLabel>
+         <text>321 · 天语遥和小白兔</text>
+        </navLabel>
+        <content src="03/321.html"/>
+      </navPoint>
+      <navPoint id="navPoint-327">
+        <navLabel>
+         <text>322 · 天语遥和女装</text>
+        </navLabel>
+        <content src="03/322.html"/>
+      </navPoint>
+      <navPoint id="navPoint-328">
+        <navLabel>
+         <text>323 · 软陶骰子</text>
+        </navLabel>
+        <content src="03/323.html"/>
+      </navPoint>
+      <navPoint id="navPoint-329">
+        <navLabel>
+         <text>324 · 调皮的母亲大人</text>
+        </navLabel>
+        <content src="03/324.html"/>
+      </navPoint>
+      <navPoint id="navPoint-330">
+        <navLabel>
+         <text>325 · 方莜莜的家事</text>
+        </navLabel>
+        <content src="03/325.html"/>
+      </navPoint>
+      <navPoint id="navPoint-331">
+        <navLabel>
+         <text>326 · 方莜莜的地址</text>
+        </navLabel>
+        <content src="03/326.html"/>
+      </navPoint>
+      <navPoint id="navPoint-332">
+        <navLabel>
+         <text>327 · 萎靡的小红鸡</text>
+        </navLabel>
+        <content src="03/327.html"/>
+      </navPoint>
+      <navPoint id="navPoint-333">
+        <navLabel>
+         <text>328 · 小红鸡之死</text>
+        </navLabel>
+        <content src="03/328.html"/>
+      </navPoint>
+      <navPoint id="navPoint-334">
+        <navLabel>
+         <text>329 · 方莜莜的生日（一）</text>
+        </navLabel>
+        <content src="03/329.html"/>
+      </navPoint>
+      <navPoint id="navPoint-335">
+        <navLabel>
+         <text>330 · 方莜莜的生日（二）</text>
+        </navLabel>
+        <content src="03/330.html"/>
+      </navPoint>
+      <navPoint id="navPoint-336">
+        <navLabel>
+         <text>331 · 方莜莜的生日（三）</text>
+        </navLabel>
+        <content src="03/331.html"/>
+      </navPoint>
+      <navPoint id="navPoint-337">
+        <navLabel>
+         <text>332 · 方莜莜的生日（四）</text>
+        </navLabel>
+        <content src="03/332.html"/>
+      </navPoint>
+      <navPoint id="navPoint-338">
+        <navLabel>
+         <text>333 · 方莜莜的生日（五）</text>
+        </navLabel>
+        <content src="03/333.html"/>
+      </navPoint>
+      <navPoint id="navPoint-339">
+        <navLabel>
+         <text>334 · 方莜莜的生日（六）</text>
+        </navLabel>
+        <content src="03/334.html"/>
+      </navPoint>
+      <navPoint id="navPoint-340">
+        <navLabel>
+         <text>335 · 新世界之门（上）</text>
+        </navLabel>
+        <content src="03/335.html"/>
+      </navPoint>
+      <navPoint id="navPoint-341">
+        <navLabel>
+         <text>336 · 新世界之门（下）</text>
+        </navLabel>
+        <content src="03/336.html"/>
+      </navPoint>
+      <navPoint id="navPoint-342">
+        <navLabel>
+         <text>337 · 好想做个女孩子</text>
+        </navLabel>
+        <content src="03/337.html"/>
+      </navPoint>
+      <navPoint id="navPoint-343">
+        <navLabel>
+         <text>338 · 空壳</text>
+        </navLabel>
+        <content src="03/338.html"/>
+      </navPoint>
+      <navPoint id="navPoint-344">
+        <navLabel>
+         <text>339 · 中秋（上）</text>
+        </navLabel>
+        <content src="03/339.html"/>
+      </navPoint>
+      <navPoint id="navPoint-345">
+        <navLabel>
+         <text>340 · 中秋（下）</text>
+        </navLabel>
+        <content src="03/340.html"/>
+      </navPoint>
+      <navPoint id="navPoint-346">
+        <navLabel>
+         <text>341 · 流庆寺（上）</text>
+        </navLabel>
+        <content src="03/341.html"/>
+      </navPoint>
+      <navPoint id="navPoint-347">
+        <navLabel>
+         <text>342 · 流庆寺（下）</text>
+        </navLabel>
+        <content src="03/342.html"/>
+      </navPoint>
+      <navPoint id="navPoint-348">
+        <navLabel>
+         <text>343 · 叶族博物馆</text>
+        </navLabel>
+        <content src="03/343.html"/>
+      </navPoint>
+      <navPoint id="navPoint-349">
+        <navLabel>
+         <text>344 · 神话传说</text>
+        </navLabel>
+        <content src="03/344.html"/>
+      </navPoint>
+      <navPoint id="navPoint-350">
+        <navLabel>
+         <text>345 · 奶油布丁</text>
+        </navLabel>
+        <content src="03/345.html"/>
+      </navPoint>
+      <navPoint id="navPoint-351">
+        <navLabel>
+         <text>346 · 方莜莜的决定</text>
+        </navLabel>
+        <content src="03/346.html"/>
+      </navPoint>
+      <navPoint id="navPoint-352">
+        <navLabel>
+         <text>347 · 莫空和大黑狗</text>
+        </navLabel>
+        <content src="03/347.html"/>
+      </navPoint>
+      <navPoint id="navPoint-353">
+        <navLabel>
+         <text>348 · 莫空和天语遥</text>
+        </navLabel>
+        <content src="03/348.html"/>
+      </navPoint>
+      <navPoint id="navPoint-354">
+        <navLabel>
+         <text>349 · 仇人相见</text>
+        </navLabel>
+        <content src="03/349.html"/>
+      </navPoint>
+      <navPoint id="navPoint-355">
+        <navLabel>
+         <text>350 · 被撕开的伤口</text>
+        </navLabel>
+        <content src="03/350.html"/>
+      </navPoint>
+      <navPoint id="navPoint-356">
+        <navLabel>
+         <text>351 · 一剑破万法</text>
+        </navLabel>
+        <content src="03/351.html"/>
+      </navPoint>
+      <navPoint id="navPoint-357">
+        <navLabel>
+         <text>352 · 偷吃巧克力</text>
+        </navLabel>
+        <content src="03/352.html"/>
+      </navPoint>
+      <navPoint id="navPoint-358">
+        <navLabel>
+         <text>353 · 吹牛打屁</text>
+        </navLabel>
+        <content src="03/353.html"/>
+      </navPoint>
+      <navPoint id="navPoint-359">
+        <navLabel>
+         <text>354 · 是你！</text>
+        </navLabel>
+        <content src="03/354.html"/>
+      </navPoint>
+      <navPoint id="navPoint-360">
+        <navLabel>
+         <text>355 · 同在小城</text>
+        </navLabel>
+        <content src="03/355.html"/>
+      </navPoint>
+      <navPoint id="navPoint-361">
+        <navLabel>
+         <text>356 · 男人……也能长得这么漂亮？</text>
+        </navLabel>
+        <content src="03/356.html"/>
+      </navPoint>
+      <navPoint id="navPoint-362">
+        <navLabel>
+         <text>357 · 天语遥的会面</text>
+        </navLabel>
+        <content src="03/357.html"/>
+      </navPoint>
+      <navPoint id="navPoint-363">
+        <navLabel>
+         <text>358 · 天语遥的女“妆”</text>
+        </navLabel>
+        <content src="03/358.html"/>
+      </navPoint>
+      <navPoint id="navPoint-364">
+        <navLabel>
+         <text>359 · 小弟的留言</text>
+        </navLabel>
+        <content src="03/359.html"/>
+      </navPoint>
+      <navPoint id="navPoint-365">
+        <navLabel>
+         <text>360 · 那次事情之后和小弟们的第一次见面</text>
+        </navLabel>
+        <content src="03/360.html"/>
+      </navPoint>
+      <navPoint id="navPoint-366">
+        <navLabel>
+         <text>361 · 这一切，终将逝去</text>
+        </navLabel>
+        <content src="03/361.html"/>
+      </navPoint>
+      <navPoint id="navPoint-367">
+        <navLabel>
+         <text>362 · 言语侮辱</text>
+        </navLabel>
+        <content src="03/362.html"/>
+      </navPoint>
+      <navPoint id="navPoint-368">
+        <navLabel>
+         <text>363 · 残身</text>
+        </navLabel>
+        <content src="03/363.html"/>
+      </navPoint>
+      <navPoint id="navPoint-369">
+        <navLabel>
+         <text>364 · 急救</text>
+        </navLabel>
+        <content src="03/364.html"/>
+      </navPoint>
+      <navPoint id="navPoint-370">
+        <navLabel>
+         <text>365 · 不想再醒来的梦</text>
+        </navLabel>
+        <content src="03/365.html"/>
+      </navPoint>
+      <navPoint id="navPoint-371">
+        <navLabel>
+         <text>366 · 林夕晨的外套</text>
+        </navLabel>
+        <content src="03/366.html"/>
+      </navPoint>
+      <navPoint id="navPoint-372">
+        <navLabel>
+         <text>367 · 电视剧的套路</text>
+        </navLabel>
+        <content src="03/367.html"/>
+      </navPoint>
+      <navPoint id="navPoint-373">
+        <navLabel>
+         <text>368 · 再平淡不过的一天</text>
+        </navLabel>
+        <content src="03/368.html"/>
+      </navPoint>
+      <navPoint id="navPoint-374">
+        <navLabel>
+         <text>369 · 早点回来</text>
+        </navLabel>
+        <content src="03/369.html"/>
+      </navPoint>
+      <navPoint id="navPoint-375">
+        <navLabel>
+         <text>370 · 小城市小商品市场</text>
+        </navLabel>
+        <content src="03/370.html"/>
+      </navPoint>
+      <navPoint id="navPoint-376">
+        <navLabel>
+         <text>371 · 上晚班的日常（上）</text>
+        </navLabel>
+        <content src="03/371.html"/>
+      </navPoint>
+      <navPoint id="navPoint-377">
+        <navLabel>
+         <text>372 · 上晚班的日常（下）</text>
+        </navLabel>
+        <content src="03/372.html"/>
+      </navPoint>
+      <navPoint id="navPoint-378">
+        <navLabel>
+         <text>373 · 你竟然也住在这里</text>
+        </navLabel>
+        <content src="03/373.html"/>
+      </navPoint>
+      <navPoint id="navPoint-379">
+        <navLabel>
+         <text>374 · 天大的笑话</text>
+        </navLabel>
+        <content src="03/374.html"/>
+      </navPoint>
+      <navPoint id="navPoint-380">
+        <navLabel>
+         <text>375 · 夏归月</text>
+        </navLabel>
+        <content src="03/375.html"/>
+      </navPoint>
+      <navPoint id="navPoint-381">
+        <navLabel>
+         <text>376 · 说出来会好受一些</text>
+        </navLabel>
+        <content src="03/376.html"/>
+      </navPoint>
+      <navPoint id="navPoint-382">
+        <navLabel>
+         <text>377 · 来，我喂你吃</text>
+        </navLabel>
+        <content src="03/377.html"/>
+      </navPoint>
+      <navPoint id="navPoint-383">
+        <navLabel>
+         <text>378 · 爸，妈！</text>
+        </navLabel>
+        <content src="03/378.html"/>
+      </navPoint>
+      <navPoint id="navPoint-384">
+        <navLabel>
+         <text>379 · 柳韵调戏胡玉牛</text>
+        </navLabel>
+        <content src="03/379.html"/>
+      </navPoint>
+      <navPoint id="navPoint-385">
+        <navLabel>
+         <text>380 · 让他走吧</text>
+        </navLabel>
+        <content src="03/380.html"/>
+      </navPoint>
+      <navPoint id="navPoint-386">
+        <navLabel>
+         <text>381 · 周超和他的新女朋友</text>
+        </navLabel>
+        <content src="03/381.html"/>
+      </navPoint>
+      <navPoint id="navPoint-387">
+        <navLabel>
+         <text>382 · 游戏里的结婚</text>
+        </navLabel>
+        <content src="03/382.html"/>
+      </navPoint>
+      <navPoint id="navPoint-388">
+        <navLabel>
+         <text>383 · 莫空和胡玉牛的对话</text>
+        </navLabel>
+        <content src="03/383.html"/>
+      </navPoint>
+      <navPoint id="navPoint-389">
+        <navLabel>
+         <text>384 · 猫大王</text>
+        </navLabel>
+        <content src="03/384.html"/>
+      </navPoint>
+      <navPoint id="navPoint-390">
+        <navLabel>
+         <text>385 · 搬到外面去住（上）</text>
+        </navLabel>
+        <content src="03/385.html"/>
+      </navPoint>
+      <navPoint id="navPoint-391">
+        <navLabel>
+         <text>386 · 搬到外面去住（下）</text>
+        </navLabel>
+        <content src="03/386.html"/>
+      </navPoint>
+      <navPoint id="navPoint-392">
+        <navLabel>
+         <text>387 · 住满了的合租房</text>
+        </navLabel>
+        <content src="03/387.html"/>
+      </navPoint>
+      <navPoint id="navPoint-393">
+        <navLabel>
+         <text>388 · 和平相处</text>
+        </navLabel>
+        <content src="03/388.html"/>
+      </navPoint>
+      <navPoint id="navPoint-394">
+        <navLabel>
+         <text>389 · 方莜莜的辞职申请</text>
+        </navLabel>
+        <content src="03/389.html"/>
+      </navPoint>
+      <navPoint id="navPoint-395">
+        <navLabel>
+         <text>390 · 搜集证据</text>
+        </navLabel>
+        <content src="03/390.html"/>
+      </navPoint>
+      <navPoint id="navPoint-396">
+        <navLabel>
+         <text>391 · 在梦中做个女孩子</text>
+        </navLabel>
+        <content src="03/391.html"/>
+      </navPoint>
+      <navPoint id="navPoint-397">
+        <navLabel>
+         <text>392 · 天语遥和夏归月和过山车</text>
+        </navLabel>
+        <content src="03/392.html"/>
+      </navPoint>
+      <navPoint id="navPoint-398">
+        <navLabel>
+         <text>393 · 婚纱摄影</text>
+        </navLabel>
+        <content src="03/393.html"/>
+      </navPoint>
+      <navPoint id="navPoint-399">
+        <navLabel>
+         <text>394 · 公益捐款的策划</text>
+        </navLabel>
+        <content src="03/394.html"/>
+      </navPoint>
+      <navPoint id="navPoint-400">
+        <navLabel>
+         <text>395 · 真角大古</text>
+        </navLabel>
+        <content src="03/395.html"/>
+      </navPoint>
+      <navPoint id="navPoint-401">
+        <navLabel>
+         <text>396 · 枯黄的爬山虎</text>
+        </navLabel>
+        <content src="03/396.html"/>
+      </navPoint>
+      <navPoint id="navPoint-402">
+        <navLabel>
+         <text>397 · 正式的辞职离开</text>
+        </navLabel>
+        <content src="03/397.html"/>
+      </navPoint>
+      <navPoint id="navPoint-403">
+        <navLabel>
+         <text>398 · 斩断退路的方莜莜</text>
+        </navLabel>
+        <content src="03/398.html"/>
+      </navPoint>
+      <navPoint id="navPoint-404">
+        <navLabel>
+         <text>399 · 跟踪胡玉牛</text>
+        </navLabel>
+        <content src="03/399.html"/>
+      </navPoint>
+      <navPoint id="navPoint-405">
+        <navLabel>
+         <text>400 · 下雪了</text>
+        </navLabel>
+        <content src="03/400.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-406">
+      <navLabel>
+       <text>第四卷 · 抓不住的幸福</text>
+      </navLabel>
+      <content src="04/index.html"/>
+      <navPoint id="navPoint-407">
+        <navLabel>
+         <text>401 · 把真相告诉你</text>
+        </navLabel>
+        <content src="04/401.html"/>
+      </navPoint>
+      <navPoint id="navPoint-408">
+        <navLabel>
+         <text>402 · 为什么要这个时候生病？</text>
+        </navLabel>
+        <content src="04/402.html"/>
+      </navPoint>
+      <navPoint id="navPoint-409">
+        <navLabel>
+         <text>403 · 大雪纷飞的圣诞夜（上）</text>
+        </navLabel>
+        <content src="04/403.html"/>
+      </navPoint>
+      <navPoint id="navPoint-410">
+        <navLabel>
+         <text>404 · 大雪纷飞的圣诞夜（下）</text>
+        </navLabel>
+        <content src="04/404.html"/>
+      </navPoint>
+      <navPoint id="navPoint-411">
+        <navLabel>
+         <text>405 · 2004 年年末的日常（上）</text>
+        </navLabel>
+        <content src="04/405.html"/>
+      </navPoint>
+      <navPoint id="navPoint-412">
+        <navLabel>
+         <text>406 · 2004 年年末的日常（下）</text>
+        </navLabel>
+        <content src="04/406.html"/>
+      </navPoint>
+      <navPoint id="navPoint-413">
+        <navLabel>
+         <text>407 · 真的好喜欢你</text>
+        </navLabel>
+        <content src="04/407.html"/>
+      </navPoint>
+      <navPoint id="navPoint-414">
+        <navLabel>
+         <text>408 · 元旦节</text>
+        </navLabel>
+        <content src="04/408.html"/>
+      </navPoint>
+      <navPoint id="navPoint-415">
+        <navLabel>
+         <text>409 · 信</text>
+        </navLabel>
+        <content src="04/409.html"/>
+      </navPoint>
+      <navPoint id="navPoint-416">
+        <navLabel>
+         <text>410 · 被偷东西的超市</text>
+        </navLabel>
+        <content src="04/410.html"/>
+      </navPoint>
+      <navPoint id="navPoint-417">
+        <navLabel>
+         <text>411 · 青年广场上的爱心传递（上）</text>
+        </navLabel>
+        <content src="04/411.html"/>
+      </navPoint>
+      <navPoint id="navPoint-418">
+        <navLabel>
+         <text>412 · 青年广场上的爱心传递（中）</text>
+        </navLabel>
+        <content src="04/412.html"/>
+      </navPoint>
+      <navPoint id="navPoint-419">
+        <navLabel>
+         <text>413 · 青年广场上的爱心传递（下）</text>
+        </navLabel>
+        <content src="04/413.html"/>
+      </navPoint>
+      <navPoint id="navPoint-420">
+        <navLabel>
+         <text>414 · 莫空捐赠的折扣券</text>
+        </navLabel>
+        <content src="04/414.html"/>
+      </navPoint>
+      <navPoint id="navPoint-421">
+        <navLabel>
+         <text>415 · 暂别</text>
+        </navLabel>
+        <content src="04/415.html"/>
+      </navPoint>
+      <navPoint id="navPoint-422">
+        <navLabel>
+         <text>416 · 临近</text>
+        </navLabel>
+        <content src="04/416.html"/>
+      </navPoint>
+      <navPoint id="navPoint-423">
+        <navLabel>
+         <text>417 · 除夕（一）</text>
+        </navLabel>
+        <content src="04/417.html"/>
+      </navPoint>
+      <navPoint id="navPoint-424">
+        <navLabel>
+         <text>418 · 除夕（二）</text>
+        </navLabel>
+        <content src="04/418.html"/>
+      </navPoint>
+      <navPoint id="navPoint-425">
+        <navLabel>
+         <text>419 · 除夕（三）</text>
+        </navLabel>
+        <content src="04/419.html"/>
+      </navPoint>
+      <navPoint id="navPoint-426">
+        <navLabel>
+         <text>420 · 除夕（四）</text>
+        </navLabel>
+        <content src="04/420.html"/>
+      </navPoint>
+      <navPoint id="navPoint-427">
+        <navLabel>
+         <text>421 · 大年初一（上）</text>
+        </navLabel>
+        <content src="04/421.html"/>
+      </navPoint>
+      <navPoint id="navPoint-428">
+        <navLabel>
+         <text>422 · 大年初一（下）</text>
+        </navLabel>
+        <content src="04/422.html"/>
+      </navPoint>
+      <navPoint id="navPoint-429">
+        <navLabel>
+         <text>423 · 艳阳高照</text>
+        </navLabel>
+        <content src="04/423.html"/>
+      </navPoint>
+      <navPoint id="navPoint-430">
+        <navLabel>
+         <text>424 · 张思凡对阵熊孩子</text>
+        </navLabel>
+        <content src="04/424.html"/>
+      </navPoint>
+      <navPoint id="navPoint-431">
+        <navLabel>
+         <text>425 · 负气</text>
+        </navLabel>
+        <content src="04/425.html"/>
+      </navPoint>
+      <navPoint id="navPoint-432">
+        <navLabel>
+         <text>426 · 神秘的包裹</text>
+        </navLabel>
+        <content src="04/426.html"/>
+      </navPoint>
+      <navPoint id="navPoint-433">
+        <navLabel>
+         <text>427 · 讽刺和还击</text>
+        </navLabel>
+        <content src="04/427.html"/>
+      </navPoint>
+      <navPoint id="navPoint-434">
+        <navLabel>
+         <text>428 · 抱着我</text>
+        </navLabel>
+        <content src="04/428.html"/>
+      </navPoint>
+      <navPoint id="navPoint-435">
+        <navLabel>
+         <text>429 · 她最喜欢的是什么呢？</text>
+        </navLabel>
+        <content src="04/429.html"/>
+      </navPoint>
+      <navPoint id="navPoint-436">
+        <navLabel>
+         <text>430 · 外国人</text>
+        </navLabel>
+        <content src="04/430.html"/>
+      </navPoint>
+      <navPoint id="navPoint-437">
+        <navLabel>
+         <text>431 · 计划开始</text>
+        </navLabel>
+        <content src="04/431.html"/>
+      </navPoint>
+      <navPoint id="navPoint-438">
+        <navLabel>
+         <text>432 · 冷笑</text>
+        </navLabel>
+        <content src="04/432.html"/>
+      </navPoint>
+      <navPoint id="navPoint-439">
+        <navLabel>
+         <text>433 · 意乱情迷</text>
+        </navLabel>
+        <content src="04/433.html"/>
+      </navPoint>
+      <navPoint id="navPoint-440">
+        <navLabel>
+         <text>434 · 去办事</text>
+        </navLabel>
+        <content src="04/434.html"/>
+      </navPoint>
+      <navPoint id="navPoint-441">
+        <navLabel>
+         <text>435 · 林欲静而风不止</text>
+        </navLabel>
+        <content src="04/435.html"/>
+      </navPoint>
+      <navPoint id="navPoint-442">
+        <navLabel>
+         <text>436 · 神秘的信封</text>
+        </navLabel>
+        <content src="04/436.html"/>
+      </navPoint>
+      <navPoint id="navPoint-443">
+        <navLabel>
+         <text>437 · 我们去见你父母吧</text>
+        </navLabel>
+        <content src="04/437.html"/>
+      </navPoint>
+      <navPoint id="navPoint-444">
+        <navLabel>
+         <text>438 · 胡玉牛父母的款待</text>
+        </navLabel>
+        <content src="04/438.html"/>
+      </navPoint>
+      <navPoint id="navPoint-445">
+        <navLabel>
+         <text>439 · 坐看风起云涌</text>
+        </navLabel>
+        <content src="04/439.html"/>
+      </navPoint>
+      <navPoint id="navPoint-446">
+        <navLabel>
+         <text>440 · 被发现的信</text>
+        </navLabel>
+        <content src="04/440.html"/>
+      </navPoint>
+      <navPoint id="navPoint-447">
+        <navLabel>
+         <text>441 · 不孝之子</text>
+        </navLabel>
+        <content src="04/441.html"/>
+      </navPoint>
+      <navPoint id="navPoint-448">
+        <navLabel>
+         <text>442 · 回不去了</text>
+        </navLabel>
+        <content src="04/442.html"/>
+      </navPoint>
+      <navPoint id="navPoint-449">
+        <navLabel>
+         <text>443 · 逃避再逃避</text>
+        </navLabel>
+        <content src="04/443.html"/>
+      </navPoint>
+      <navPoint id="navPoint-450">
+        <navLabel>
+         <text>444 · 恩怨情仇</text>
+        </navLabel>
+        <content src="04/444.html"/>
+      </navPoint>
+      <navPoint id="navPoint-451">
+        <navLabel>
+         <text>445 · 转交给胡玉牛</text>
+        </navLabel>
+        <content src="04/445.html"/>
+      </navPoint>
+      <navPoint id="navPoint-452">
+        <navLabel>
+         <text>446 · 人言可畏</text>
+        </navLabel>
+        <content src="04/446.html"/>
+      </navPoint>
+      <navPoint id="navPoint-453">
+        <navLabel>
+         <text>447 · 世界崩坏</text>
+        </navLabel>
+        <content src="04/447.html"/>
+      </navPoint>
+      <navPoint id="navPoint-454">
+        <navLabel>
+         <text>448 · 好梦</text>
+        </navLabel>
+        <content src="04/448.html"/>
+      </navPoint>
+      <navPoint id="navPoint-455">
+        <navLabel>
+         <text>449 · 不知道是谁的坟</text>
+        </navLabel>
+        <content src="04/449.html"/>
+      </navPoint>
+      <navPoint id="navPoint-456">
+        <navLabel>
+         <text>450 · 永远的安眠</text>
+        </navLabel>
+        <content src="04/450.html"/>
+      </navPoint>
+      <navPoint id="navPoint-457">
+        <navLabel>
+         <text>451 · 白发人送黑发人（上）</text>
+        </navLabel>
+        <content src="04/451.html"/>
+      </navPoint>
+      <navPoint id="navPoint-458">
+        <navLabel>
+         <text>452 · 白发人送黑发人（下）</text>
+        </navLabel>
+        <content src="04/452.html"/>
+      </navPoint>
+      <navPoint id="navPoint-459">
+        <navLabel>
+         <text>453 · 离开合租房</text>
+        </navLabel>
+        <content src="04/453.html"/>
+      </navPoint>
+      <navPoint id="navPoint-460">
+        <navLabel>
+         <text>454 · 重新搬进集装箱房</text>
+        </navLabel>
+        <content src="04/454.html"/>
+      </navPoint>
+      <navPoint id="navPoint-461">
+        <navLabel>
+         <text>455 · 尘封的电瓶车</text>
+        </navLabel>
+        <content src="04/455.html"/>
+      </navPoint>
+      <navPoint id="navPoint-462">
+        <navLabel>
+         <text>456 · 坐上电动车去吹风</text>
+        </navLabel>
+        <content src="04/456.html"/>
+      </navPoint>
+      <navPoint id="navPoint-463">
+        <navLabel>
+         <text>457 · 方莜莜一个人的家</text>
+        </navLabel>
+        <content src="04/457.html"/>
+      </navPoint>
+      <navPoint id="navPoint-464">
+        <navLabel>
+         <text>458 · 到底什么样才能算是女孩子呢</text>
+        </navLabel>
+        <content src="04/458.html"/>
+      </navPoint>
+      <navPoint id="navPoint-465">
+        <navLabel>
+         <text>459 · 躲不过</text>
+        </navLabel>
+        <content src="04/459.html"/>
+      </navPoint>
+      <navPoint id="navPoint-466">
+        <navLabel>
+         <text>460 · 叔叔，我最喜欢小遥了</text>
+        </navLabel>
+        <content src="04/460.html"/>
+      </navPoint>
+      <navPoint id="navPoint-467">
+        <navLabel>
+         <text>461 · 我是小遥的女朋友</text>
+        </navLabel>
+        <content src="04/461.html"/>
+      </navPoint>
+      <navPoint id="navPoint-468">
+        <navLabel>
+         <text>462 · 天语遥的陶人柜</text>
+        </navLabel>
+        <content src="04/462.html"/>
+      </navPoint>
+      <navPoint id="navPoint-469">
+        <navLabel>
+         <text>463 · 其实都错了</text>
+        </navLabel>
+        <content src="04/463.html"/>
+      </navPoint>
+      <navPoint id="navPoint-470">
+        <navLabel>
+         <text>464 · 不想分清虚幻和现实</text>
+        </navLabel>
+        <content src="04/464.html"/>
+      </navPoint>
+      <navPoint id="navPoint-471">
+        <navLabel>
+         <text>465 · 辞职后想去做什么</text>
+        </navLabel>
+        <content src="04/465.html"/>
+      </navPoint>
+      <navPoint id="navPoint-472">
+        <navLabel>
+         <text>466 · 孙昊又来了</text>
+        </navLabel>
+        <content src="04/466.html"/>
+      </navPoint>
+      <navPoint id="navPoint-473">
+        <navLabel>
+         <text>467 · 天语遥和陌生的网友</text>
+        </navLabel>
+        <content src="04/467.html"/>
+      </navPoint>
+      <navPoint id="navPoint-474">
+        <navLabel>
+         <text>468 · 你的声音还蛮好听的</text>
+        </navLabel>
+        <content src="04/468.html"/>
+      </navPoint>
+      <navPoint id="navPoint-475">
+        <navLabel>
+         <text>469 · 各自人各自的生活</text>
+        </navLabel>
+        <content src="04/469.html"/>
+      </navPoint>
+      <navPoint id="navPoint-476">
+        <navLabel>
+         <text>470 · 扶住</text>
+        </navLabel>
+        <content src="04/470.html"/>
+      </navPoint>
+      <navPoint id="navPoint-477">
+        <navLabel>
+         <text>471 · 林夕晨发烧了</text>
+        </navLabel>
+        <content src="04/471.html"/>
+      </navPoint>
+      <navPoint id="navPoint-478">
+        <navLabel>
+         <text>472 · 天语遥和奇怪的小电影</text>
+        </navLabel>
+        <content src="04/472.html"/>
+      </navPoint>
+      <navPoint id="navPoint-479">
+        <navLabel>
+         <text>473 · 严重的高烧</text>
+        </navLabel>
+        <content src="04/473.html"/>
+      </navPoint>
+      <navPoint id="navPoint-480">
+        <navLabel>
+         <text>474 · 女性染色体</text>
+        </navLabel>
+        <content src="04/474.html"/>
+      </navPoint>
+      <navPoint id="navPoint-481">
+        <navLabel>
+         <text>475 · 忍不住笑</text>
+        </navLabel>
+        <content src="04/475.html"/>
+      </navPoint>
+      <navPoint id="navPoint-482">
+        <navLabel>
+         <text>476 · 有林夕晨一起陪伴的工作</text>
+        </navLabel>
+        <content src="04/476.html"/>
+      </navPoint>
+      <navPoint id="navPoint-483">
+        <navLabel>
+         <text>477 · 初次尝试</text>
+        </navLabel>
+        <content src="04/477.html"/>
+      </navPoint>
+      <navPoint id="navPoint-484">
+        <navLabel>
+         <text>478 · 夏归月的寻找</text>
+        </navLabel>
+        <content src="04/478.html"/>
+      </navPoint>
+      <navPoint id="navPoint-485">
+        <navLabel>
+         <text>479 · 意外的相见</text>
+        </navLabel>
+        <content src="04/479.html"/>
+      </navPoint>
+      <navPoint id="navPoint-486">
+        <navLabel>
+         <text>480 · 天语遥和苏雨晴</text>
+        </navLabel>
+        <content src="04/480.html"/>
+      </navPoint>
+      <navPoint id="navPoint-487">
+        <navLabel>
+         <text>481 · 和男人去看电影</text>
+        </navLabel>
+        <content src="04/481.html"/>
+      </navPoint>
+      <navPoint id="navPoint-488">
+        <navLabel>
+         <text>482 · 吃豆腐？</text>
+        </navLabel>
+        <content src="04/482.html"/>
+      </navPoint>
+      <navPoint id="navPoint-489">
+        <navLabel>
+         <text>483 · 天语遥和情趣用品店</text>
+        </navLabel>
+        <content src="04/483.html"/>
+      </navPoint>
+      <navPoint id="navPoint-490">
+        <navLabel>
+         <text>484 · 天语遥和男性用品</text>
+        </navLabel>
+        <content src="04/484.html"/>
+      </navPoint>
+      <navPoint id="navPoint-491">
+        <navLabel>
+         <text>485 · 天语遥的第一次（上）</text>
+        </navLabel>
+        <content src="04/485.html"/>
+      </navPoint>
+      <navPoint id="navPoint-492">
+        <navLabel>
+         <text>486 · 天语遥的第一次（下）</text>
+        </navLabel>
+        <content src="04/486.html"/>
+      </navPoint>
+      <navPoint id="navPoint-493">
+        <navLabel>
+         <text>487 · 柳韵的报复</text>
+        </navLabel>
+        <content src="04/487.html"/>
+      </navPoint>
+      <navPoint id="navPoint-494">
+        <navLabel>
+         <text>488 · 比死还痛苦</text>
+        </navLabel>
+        <content src="04/488.html"/>
+      </navPoint>
+      <navPoint id="navPoint-495">
+        <navLabel>
+         <text>489 · 莫空指路</text>
+        </navLabel>
+        <content src="04/489.html"/>
+      </navPoint>
+      <navPoint id="navPoint-496">
+        <navLabel>
+         <text>490 · 黄枸救场</text>
+        </navLabel>
+        <content src="04/490.html"/>
+      </navPoint>
+      <navPoint id="navPoint-497">
+        <navLabel>
+         <text>491 · 脱离危险</text>
+        </navLabel>
+        <content src="04/491.html"/>
+      </navPoint>
+      <navPoint id="navPoint-498">
+        <navLabel>
+         <text>492 · 醒不过来</text>
+        </navLabel>
+        <content src="04/492.html"/>
+      </navPoint>
+      <navPoint id="navPoint-499">
+        <navLabel>
+         <text>493 · 天语遥的世界（一）</text>
+        </navLabel>
+        <content src="04/493.html"/>
+      </navPoint>
+      <navPoint id="navPoint-500">
+        <navLabel>
+         <text>494 · 天语遥的世界（二）</text>
+        </navLabel>
+        <content src="04/494.html"/>
+      </navPoint>
+      <navPoint id="navPoint-501">
+        <navLabel>
+         <text>495 · 天语遥的世界（三）</text>
+        </navLabel>
+        <content src="04/495.html"/>
+      </navPoint>
+      <navPoint id="navPoint-502">
+        <navLabel>
+         <text>496 · 天语遥的世界（四）</text>
+        </navLabel>
+        <content src="04/496.html"/>
+      </navPoint>
+      <navPoint id="navPoint-503">
+        <navLabel>
+         <text>497 · 天语遥的世界（五）</text>
+        </navLabel>
+        <content src="04/497.html"/>
+      </navPoint>
+      <navPoint id="navPoint-504">
+        <navLabel>
+         <text>498 · 天语遥的世界（六）</text>
+        </navLabel>
+        <content src="04/498.html"/>
+      </navPoint>
+      <navPoint id="navPoint-505">
+        <navLabel>
+         <text>499 · 无法治愈了的精神分裂</text>
+        </navLabel>
+        <content src="04/499.html"/>
+      </navPoint>
+      <navPoint id="navPoint-506">
+        <navLabel>
+         <text>500 · 王海峰离职</text>
+        </navLabel>
+        <content src="04/500.html"/>
+      </navPoint>
+      <navPoint id="navPoint-507">
+        <navLabel>
+         <text>501 · 买书</text>
+        </navLabel>
+        <content src="04/501.html"/>
+      </navPoint>
+      <navPoint id="navPoint-508">
+        <navLabel>
+         <text>502 · 我想来找你</text>
+        </navLabel>
+        <content src="04/502.html"/>
+      </navPoint>
+      <navPoint id="navPoint-509">
+        <navLabel>
+         <text>503 · 随意的面试</text>
+        </navLabel>
+        <content src="04/503.html"/>
+      </navPoint>
+      <navPoint id="navPoint-510">
+        <navLabel>
+         <text>504 · 莫空的一天</text>
+        </navLabel>
+        <content src="04/504.html"/>
+      </navPoint>
+      <navPoint id="navPoint-511">
+        <navLabel>
+         <text>505 · 加油站的晚班</text>
+        </navLabel>
+        <content src="04/505.html"/>
+      </navPoint>
+      <navPoint id="navPoint-512">
+        <navLabel>
+         <text>506 · 电话联络感情</text>
+        </navLabel>
+        <content src="04/506.html"/>
+      </navPoint>
+      <navPoint id="navPoint-513">
+        <navLabel>
+         <text>507 · 去给安念过生日（一）</text>
+        </navLabel>
+        <content src="04/507.html"/>
+      </navPoint>
+      <navPoint id="navPoint-514">
+        <navLabel>
+         <text>508 · 去给安念过生日（二）</text>
+        </navLabel>
+        <content src="04/508.html"/>
+      </navPoint>
+      <navPoint id="navPoint-515">
+        <navLabel>
+         <text>509 · 去给安念过生日（三）</text>
+        </navLabel>
+        <content src="04/509.html"/>
+      </navPoint>
+      <navPoint id="navPoint-516">
+        <navLabel>
+         <text>510 · 去给安念过生日（四）</text>
+        </navLabel>
+        <content src="04/510.html"/>
+      </navPoint>
+      <navPoint id="navPoint-517">
+        <navLabel>
+         <text>511 · 去给安念过生日（五）</text>
+        </navLabel>
+        <content src="04/511.html"/>
+      </navPoint>
+      <navPoint id="navPoint-518">
+        <navLabel>
+         <text>512 · 去给安念过生日（六）</text>
+        </navLabel>
+        <content src="04/512.html"/>
+      </navPoint>
+      <navPoint id="navPoint-519">
+        <navLabel>
+         <text>513 · 去给安念过生日（七）</text>
+        </navLabel>
+        <content src="04/513.html"/>
+      </navPoint>
+      <navPoint id="navPoint-520">
+        <navLabel>
+         <text>514 · 去给安念过生日（八）</text>
+        </navLabel>
+        <content src="04/514.html"/>
+      </navPoint>
+      <navPoint id="navPoint-521">
+        <navLabel>
+         <text>515 · 请出示本人身份证</text>
+        </navLabel>
+        <content src="04/515.html"/>
+      </navPoint>
+      <navPoint id="navPoint-522">
+        <navLabel>
+         <text>516 · 到底是什么感情</text>
+        </navLabel>
+        <content src="04/516.html"/>
+      </navPoint>
+      <navPoint id="navPoint-523">
+        <navLabel>
+         <text>517 · 公交卡不见了</text>
+        </navLabel>
+        <content src="04/517.html"/>
+      </navPoint>
+      <navPoint id="navPoint-524">
+        <navLabel>
+         <text>518 · 目送着离去</text>
+        </navLabel>
+        <content src="04/518.html"/>
+      </navPoint>
+      <navPoint id="navPoint-525">
+        <navLabel>
+         <text>519 · 官二代的骚扰</text>
+        </navLabel>
+        <content src="04/519.html"/>
+      </navPoint>
+      <navPoint id="navPoint-526">
+        <navLabel>
+         <text>520 · 一万块钱一个晚上</text>
+        </navLabel>
+        <content src="04/520.html"/>
+      </navPoint>
+      <navPoint id="navPoint-527">
+        <navLabel>
+         <text>521 · 陪酒（上）</text>
+        </navLabel>
+        <content src="04/521.html"/>
+      </navPoint>
+      <navPoint id="navPoint-528">
+        <navLabel>
+         <text>522 · 陪酒（下）</text>
+        </navLabel>
+        <content src="04/522.html"/>
+      </navPoint>
+      <navPoint id="navPoint-529">
+        <navLabel>
+         <text>523 · 林夕晨第一视角</text>
+        </navLabel>
+        <content src="04/523.html"/>
+      </navPoint>
+      <navPoint id="navPoint-530">
+        <navLabel>
+         <text>524 · 平静的生活，是因为有人帮你挡住了风雨，定住了波澜</text>
+        </navLabel>
+        <content src="04/524.html"/>
+      </navPoint>
+      <navPoint id="navPoint-531">
+        <navLabel>
+         <text>525 · 突然的到来</text>
+        </navLabel>
+        <content src="04/525.html"/>
+      </navPoint>
+      <navPoint id="navPoint-532">
+        <navLabel>
+         <text>526 · 你最近过的怎么样</text>
+        </navLabel>
+        <content src="04/526.html"/>
+      </navPoint>
+      <navPoint id="navPoint-533">
+        <navLabel>
+         <text>527 · 软软的，凉凉的</text>
+        </navLabel>
+        <content src="04/527.html"/>
+      </navPoint>
+      <navPoint id="navPoint-534">
+        <navLabel>
+         <text>528 · 湿身</text>
+        </navLabel>
+        <content src="04/528.html"/>
+      </navPoint>
+      <navPoint id="navPoint-535">
+        <navLabel>
+         <text>529 · 打开天窗说亮话</text>
+        </navLabel>
+        <content src="04/529.html"/>
+      </navPoint>
+      <navPoint id="navPoint-536">
+        <navLabel>
+         <text>530 · 张思凡毕业了</text>
+        </navLabel>
+        <content src="04/530.html"/>
+      </navPoint>
+      <navPoint id="navPoint-537">
+        <navLabel>
+         <text>531 · 林夕晨的家事（上）</text>
+        </navLabel>
+        <content src="04/531.html"/>
+      </navPoint>
+      <navPoint id="navPoint-538">
+        <navLabel>
+         <text>532 · 林夕晨的家事（下）</text>
+        </navLabel>
+        <content src="04/532.html"/>
+      </navPoint>
+      <navPoint id="navPoint-539">
+        <navLabel>
+         <text>533 · 只剩下两个人</text>
+        </navLabel>
+        <content src="04/533.html"/>
+      </navPoint>
+      <navPoint id="navPoint-540">
+        <navLabel>
+         <text>534 · 胸部的感觉</text>
+        </navLabel>
+        <content src="04/534.html"/>
+      </navPoint>
+      <navPoint id="navPoint-541">
+        <navLabel>
+         <text>535 · 同居的感觉</text>
+        </navLabel>
+        <content src="04/535.html"/>
+      </navPoint>
+      <navPoint id="navPoint-542">
+        <navLabel>
+         <text>536 · 以后每天都一起洗澡</text>
+        </navLabel>
+        <content src="04/536.html"/>
+      </navPoint>
+      <navPoint id="navPoint-543">
+        <navLabel>
+         <text>537 · 暂未同居</text>
+        </navLabel>
+        <content src="04/537.html"/>
+      </navPoint>
+      <navPoint id="navPoint-544">
+        <navLabel>
+         <text>538 · 住在一起</text>
+        </navLabel>
+        <content src="04/538.html"/>
+      </navPoint>
+      <navPoint id="navPoint-545">
+        <navLabel>
+         <text>539 · 苏雨晴和林夕晨的小窝</text>
+        </navLabel>
+        <content src="04/539.html"/>
+      </navPoint>
+      <navPoint id="navPoint-546">
+        <navLabel>
+         <text>540 · 苏雨晴的小回忆</text>
+        </navLabel>
+        <content src="04/540.html"/>
+      </navPoint>
+      <navPoint id="navPoint-547">
+        <navLabel>
+         <text>541 · 安念和方莜莜的日常（一）</text>
+        </navLabel>
+        <content src="04/541.html"/>
+      </navPoint>
+      <navPoint id="navPoint-548">
+        <navLabel>
+         <text>542 · 安念和方莜莜的日常（二）</text>
+        </navLabel>
+        <content src="04/542.html"/>
+      </navPoint>
+      <navPoint id="navPoint-549">
+        <navLabel>
+         <text>543 · 安念和方莜莜的日常（三）</text>
+        </navLabel>
+        <content src="04/543.html"/>
+      </navPoint>
+      <navPoint id="navPoint-550">
+        <navLabel>
+         <text>544 · 安念和方莜莜的日常（四）</text>
+        </navLabel>
+        <content src="04/544.html"/>
+      </navPoint>
+      <navPoint id="navPoint-551">
+        <navLabel>
+         <text>545 · 张思凡和孙昊的日常（上）</text>
+        </navLabel>
+        <content src="04/545.html"/>
+      </navPoint>
+      <navPoint id="navPoint-552">
+        <navLabel>
+         <text>546 · 张思凡和孙昊的日常（下）</text>
+        </navLabel>
+        <content src="04/546.html"/>
+      </navPoint>
+      <navPoint id="navPoint-553">
+        <navLabel>
+         <text>547 · 新房子感觉怎么样？</text>
+        </navLabel>
+        <content src="04/547.html"/>
+      </navPoint>
+      <navPoint id="navPoint-554">
+        <navLabel>
+         <text>548 · 讨好</text>
+        </navLabel>
+        <content src="04/548.html"/>
+      </navPoint>
+      <navPoint id="navPoint-555">
+        <navLabel>
+         <text>549 · 五倍酬劳</text>
+        </navLabel>
+        <content src="04/549.html"/>
+      </navPoint>
+      <navPoint id="navPoint-556">
+        <navLabel>
+         <text>550 · 安念暴走</text>
+        </navLabel>
+        <content src="04/550.html"/>
+      </navPoint>
+      <navPoint id="navPoint-557">
+        <navLabel>
+         <text>551 · 颈环</text>
+        </navLabel>
+        <content src="04/551.html"/>
+      </navPoint>
+      <navPoint id="navPoint-558">
+        <navLabel>
+         <text>552 · 爱你永不变</text>
+        </navLabel>
+        <content src="04/552.html"/>
+      </navPoint>
+      <navPoint id="navPoint-559">
+        <navLabel>
+         <text>553 · 重阳节</text>
+        </navLabel>
+        <content src="04/553.html"/>
+      </navPoint>
+      <navPoint id="navPoint-560">
+        <navLabel>
+         <text>554 · 猛烈的台风</text>
+        </navLabel>
+        <content src="04/554.html"/>
+      </navPoint>
+      <navPoint id="navPoint-561">
+        <navLabel>
+         <text>555 · 去势手术（上）</text>
+        </navLabel>
+        <content src="04/555.html"/>
+      </navPoint>
+      <navPoint id="navPoint-562">
+        <navLabel>
+         <text>556 · 去势手术（中）</text>
+        </navLabel>
+        <content src="04/556.html"/>
+      </navPoint>
+      <navPoint id="navPoint-563">
+        <navLabel>
+         <text>557 · 去势手术（下）</text>
+        </navLabel>
+        <content src="04/557.html"/>
+      </navPoint>
+      <navPoint id="navPoint-564">
+        <navLabel>
+         <text>558 · 各自的家人</text>
+        </navLabel>
+        <content src="04/558.html"/>
+      </navPoint>
+      <navPoint id="navPoint-565">
+        <navLabel>
+         <text>559 · 捉个正着</text>
+        </navLabel>
+        <content src="04/559.html"/>
+      </navPoint>
+      <navPoint id="navPoint-566">
+        <navLabel>
+         <text>560 · 玩玩而已</text>
+        </navLabel>
+        <content src="04/560.html"/>
+      </navPoint>
+      <navPoint id="navPoint-567">
+        <navLabel>
+         <text>561 · 不做女人了</text>
+        </navLabel>
+        <content src="04/561.html"/>
+      </navPoint>
+      <navPoint id="navPoint-568">
+        <navLabel>
+         <text>562 · 方莜莜和安念的奶茶店</text>
+        </navLabel>
+        <content src="04/562.html"/>
+      </navPoint>
+      <navPoint id="navPoint-569">
+        <navLabel>
+         <text>563 · 古筝伴奏</text>
+        </navLabel>
+        <content src="04/563.html"/>
+      </navPoint>
+      <navPoint id="navPoint-570">
+        <navLabel>
+         <text>564 · 电瓶车相撞</text>
+        </navLabel>
+        <content src="04/564.html"/>
+      </navPoint>
+      <navPoint id="navPoint-571">
+        <navLabel>
+         <text>565 · 气势压倒</text>
+        </navLabel>
+        <content src="04/565.html"/>
+      </navPoint>
+      <navPoint id="navPoint-572">
+        <navLabel>
+         <text>566 · 遍体凌伤</text>
+        </navLabel>
+        <content src="04/566.html"/>
+      </navPoint>
+      <navPoint id="navPoint-573">
+        <navLabel>
+         <text>567 · 忧心忡忡</text>
+        </navLabel>
+        <content src="04/567.html"/>
+      </navPoint>
+      <navPoint id="navPoint-574">
+        <navLabel>
+         <text>568 · 偷看林夕晨洗澡</text>
+        </navLabel>
+        <content src="04/568.html"/>
+      </navPoint>
+      <navPoint id="navPoint-575">
+        <navLabel>
+         <text>569 · 促销员的工作（上）</text>
+        </navLabel>
+        <content src="04/569.html"/>
+      </navPoint>
+      <navPoint id="navPoint-576">
+        <navLabel>
+         <text>570 · 促销员的日常（下）</text>
+        </navLabel>
+        <content src="04/570.html"/>
+      </navPoint>
+      <navPoint id="navPoint-577">
+        <navLabel>
+         <text>571 · 夕子姐姐，为什么要这么做？！</text>
+        </navLabel>
+        <content src="04/571.html"/>
+      </navPoint>
+      <navPoint id="navPoint-578">
+        <navLabel>
+         <text>572 · 我来代替</text>
+        </navLabel>
+        <content src="04/572.html"/>
+      </navPoint>
+      <navPoint id="navPoint-579">
+        <navLabel>
+         <text>573 · 苏雨晴大舅的震怒</text>
+        </navLabel>
+        <content src="04/573.html"/>
+      </navPoint>
+      <navPoint id="navPoint-580">
+        <navLabel>
+         <text>574 · 我……还不想回去</text>
+        </navLabel>
+        <content src="04/574.html"/>
+      </navPoint>
+      <navPoint id="navPoint-581">
+        <navLabel>
+         <text>575 · 暂时的分别</text>
+        </navLabel>
+        <content src="04/575.html"/>
+      </navPoint>
+      <navPoint id="navPoint-582">
+        <navLabel>
+         <text>576 · 孔雀被抓</text>
+        </navLabel>
+        <content src="04/576.html"/>
+      </navPoint>
+      <navPoint id="navPoint-583">
+        <navLabel>
+         <text>577 · 林夕晨的长途旅行</text>
+        </navLabel>
+        <content src="04/577.html"/>
+      </navPoint>
+      <navPoint id="navPoint-584">
+        <navLabel>
+         <text>578 · 新年之前</text>
+        </navLabel>
+        <content src="04/578.html"/>
+      </navPoint>
+      <navPoint id="navPoint-585">
+        <navLabel>
+         <text>579 · 一个人的春节</text>
+        </navLabel>
+        <content src="04/579.html"/>
+      </navPoint>
+      <navPoint id="navPoint-586">
+        <navLabel>
+         <text>580 · 相亲</text>
+        </navLabel>
+        <content src="04/580.html"/>
+      </navPoint>
+      <navPoint id="navPoint-587">
+        <navLabel>
+         <text>581 · 不接受</text>
+        </navLabel>
+        <content src="04/581.html"/>
+      </navPoint>
+      <navPoint id="navPoint-588">
+        <navLabel>
+         <text>582 · 死吧死吧死吧！</text>
+        </navLabel>
+        <content src="04/582.html"/>
+      </navPoint>
+      <navPoint id="navPoint-589">
+        <navLabel>
+         <text>583 · 林夕晨的画</text>
+        </navLabel>
+        <content src="04/583.html"/>
+      </navPoint>
+      <navPoint id="navPoint-590">
+        <navLabel>
+         <text>584 · 死讯</text>
+        </navLabel>
+        <content src="04/584.html"/>
+      </navPoint>
+      <navPoint id="navPoint-591">
+        <navLabel>
+         <text>585 · 去面对（上）</text>
+        </navLabel>
+        <content src="04/585.html"/>
+      </navPoint>
+      <navPoint id="navPoint-592">
+        <navLabel>
+         <text>586 · 去面对（下）</text>
+        </navLabel>
+        <content src="04/586.html"/>
+      </navPoint>
+      <navPoint id="navPoint-593">
+        <navLabel>
+         <text>587 · 替她好好活下去</text>
+        </navLabel>
+        <content src="04/587.html"/>
+      </navPoint>
+      <navPoint id="navPoint-594">
+        <navLabel>
+         <text>588 · 莫空和秋易</text>
+        </navLabel>
+        <content src="04/588.html"/>
+      </navPoint>
+      <navPoint id="navPoint-595">
+        <navLabel>
+         <text>589 · 大黑狗</text>
+        </navLabel>
+        <content src="04/589.html"/>
+      </navPoint>
+      <navPoint id="navPoint-596">
+        <navLabel>
+         <text>590 · 黑皇</text>
+        </navLabel>
+        <content src="04/590.html"/>
+      </navPoint>
+      <navPoint id="navPoint-597">
+        <navLabel>
+         <text>591 · 颓废</text>
+        </navLabel>
+        <content src="04/591.html"/>
+      </navPoint>
+      <navPoint id="navPoint-598">
+        <navLabel>
+         <text>592 · 树苗</text>
+        </navLabel>
+        <content src="04/592.html"/>
+      </navPoint>
+      <navPoint id="navPoint-599">
+        <navLabel>
+         <text>593 · 当知道真正的我的时候，你还会用司空见惯的笑脸和我说话吗？</text>
+        </navLabel>
+        <content src="04/593.html"/>
+      </navPoint>
+      <navPoint id="navPoint-600">
+        <navLabel>
+         <text>594 · 恢复平静了的日子</text>
+        </navLabel>
+        <content src="04/594.html"/>
+      </navPoint>
+      <navPoint id="navPoint-601">
+        <navLabel>
+         <text>595 · 宠物店（上）</text>
+        </navLabel>
+        <content src="04/595.html"/>
+      </navPoint>
+      <navPoint id="navPoint-602">
+        <navLabel>
+         <text>596 · 宠物店（下）</text>
+        </navLabel>
+        <content src="04/596.html"/>
+      </navPoint>
+      <navPoint id="navPoint-603">
+        <navLabel>
+         <text>597 · 遛狗的工作</text>
+        </navLabel>
+        <content src="04/597.html"/>
+      </navPoint>
+      <navPoint id="navPoint-604">
+        <navLabel>
+         <text>598 · 解开束缚后的奔跑</text>
+        </navLabel>
+        <content src="04/598.html"/>
+      </navPoint>
+      <navPoint id="navPoint-605">
+        <navLabel>
+         <text>599 · 逃课的少男少女</text>
+        </navLabel>
+        <content src="04/599.html"/>
+      </navPoint>
+      <navPoint id="navPoint-606">
+        <navLabel>
+         <text>600 · 你果然是男孩子</text>
+        </navLabel>
+        <content src="04/600.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-607">
+      <navLabel>
+       <text>第五卷 · 爱情到底是什么呢</text>
+      </navLabel>
+      <content src="05/index.html"/>
+      <navPoint id="navPoint-608">
+        <navLabel>
+         <text>601 · 夏日炎炎</text>
+        </navLabel>
+        <content src="05/601.html"/>
+      </navPoint>
+      <navPoint id="navPoint-609">
+        <navLabel>
+         <text>602 · 2006 年的台风</text>
+        </navLabel>
+        <content src="05/602.html"/>
+      </navPoint>
+      <navPoint id="navPoint-610">
+        <navLabel>
+         <text>603 · 咖啡死了（上）</text>
+        </navLabel>
+        <content src="05/603.html"/>
+      </navPoint>
+      <navPoint id="navPoint-611">
+        <navLabel>
+         <text>604 · 咖啡死了（下）</text>
+        </navLabel>
+        <content src="05/604.html"/>
+      </navPoint>
+      <navPoint id="navPoint-612">
+        <navLabel>
+         <text>605 · 发烧</text>
+        </navLabel>
+        <content src="05/605.html"/>
+      </navPoint>
+      <navPoint id="navPoint-613">
+        <navLabel>
+         <text>606 · 贫血低烧</text>
+        </navLabel>
+        <content src="05/606.html"/>
+      </navPoint>
+      <navPoint id="navPoint-614">
+        <navLabel>
+         <text>607 · 中药的香味</text>
+        </navLabel>
+        <content src="05/607.html"/>
+      </navPoint>
+      <navPoint id="navPoint-615">
+        <navLabel>
+         <text>608 · 无微不至的照顾</text>
+        </navLabel>
+        <content src="05/608.html"/>
+      </navPoint>
+      <navPoint id="navPoint-616">
+        <navLabel>
+         <text>609 · 曲奇的世界</text>
+        </navLabel>
+        <content src="05/609.html"/>
+      </navPoint>
+      <navPoint id="navPoint-617">
+        <navLabel>
+         <text>610 · 田螺先生？</text>
+        </navLabel>
+        <content src="05/610.html"/>
+      </navPoint>
+      <navPoint id="navPoint-618">
+        <navLabel>
+         <text>611 · 夜晚的楼顶天台</text>
+        </navLabel>
+        <content src="05/611.html"/>
+      </navPoint>
+      <navPoint id="navPoint-619">
+        <navLabel>
+         <text>612 · 铁桶烧烤</text>
+        </navLabel>
+        <content src="05/612.html"/>
+      </navPoint>
+      <navPoint id="navPoint-620">
+        <navLabel>
+         <text>613 · 和风羽蓝一起看店</text>
+        </navLabel>
+        <content src="05/613.html"/>
+      </navPoint>
+      <navPoint id="navPoint-621">
+        <navLabel>
+         <text>614 · 星探</text>
+        </navLabel>
+        <content src="05/614.html"/>
+      </navPoint>
+      <navPoint id="navPoint-622">
+        <navLabel>
+         <text>615 · 扎一个双马尾</text>
+        </navLabel>
+        <content src="05/615.html"/>
+      </navPoint>
+      <navPoint id="navPoint-623">
+        <navLabel>
+         <text>616 · 莫空的生日</text>
+        </navLabel>
+        <content src="05/616.html"/>
+      </navPoint>
+      <navPoint id="navPoint-624">
+        <navLabel>
+         <text>617 · 我……想回家</text>
+        </navLabel>
+        <content src="05/617.html"/>
+      </navPoint>
+      <navPoint id="navPoint-625">
+        <navLabel>
+         <text>618 · 杭州</text>
+        </navLabel>
+        <content src="05/618.html"/>
+      </navPoint>
+      <navPoint id="navPoint-626">
+        <navLabel>
+         <text>619 · 车祸？</text>
+        </navLabel>
+        <content src="05/619.html"/>
+      </navPoint>
+      <navPoint id="navPoint-627">
+        <navLabel>
+         <text>620 · 回家</text>
+        </navLabel>
+        <content src="05/620.html"/>
+      </navPoint>
+      <navPoint id="navPoint-628">
+        <navLabel>
+         <text>621 · 爸爸妈妈</text>
+        </navLabel>
+        <content src="05/621.html"/>
+      </navPoint>
+      <navPoint id="navPoint-629">
+        <navLabel>
+         <text>622 · 做好准备了吗？</text>
+        </navLabel>
+        <content src="05/622.html"/>
+      </navPoint>
+      <navPoint id="navPoint-630">
+        <navLabel>
+         <text>623 · 南屏山</text>
+        </navLabel>
+        <content src="05/623.html"/>
+      </navPoint>
+      <navPoint id="navPoint-631">
+        <navLabel>
+         <text>624 · 心理测试</text>
+        </navLabel>
+        <content src="05/624.html"/>
+      </navPoint>
+      <navPoint id="navPoint-632">
+        <navLabel>
+         <text>625 · 最终的一步（上）</text>
+        </navLabel>
+        <content src="05/625.html"/>
+      </navPoint>
+      <navPoint id="navPoint-633">
+        <navLabel>
+         <text>626 · 最终的一步（下）</text>
+        </navLabel>
+        <content src="05/626.html"/>
+      </navPoint>
+      <navPoint id="navPoint-634">
+        <navLabel>
+         <text>627 · 破蛹成蝶（上）</text>
+        </navLabel>
+        <content src="05/627.html"/>
+      </navPoint>
+      <navPoint id="navPoint-635">
+        <navLabel>
+         <text>628 · 破蛹成蝶（下）</text>
+        </navLabel>
+        <content src="05/628.html"/>
+      </navPoint>
+      <navPoint id="navPoint-636">
+        <navLabel>
+         <text>629 · 通模具</text>
+        </navLabel>
+        <content src="05/629.html"/>
+      </navPoint>
+      <navPoint id="navPoint-637">
+        <navLabel>
+         <text>630 · 生命的过客</text>
+        </navLabel>
+        <content src="05/630.html"/>
+      </navPoint>
+      <navPoint id="navPoint-638">
+        <navLabel>
+         <text>631 · 大家族</text>
+        </navLabel>
+        <content src="05/631.html"/>
+      </navPoint>
+      <navPoint id="navPoint-639">
+        <navLabel>
+         <text>632 · 侮辱和嘲笑</text>
+        </navLabel>
+        <content src="05/632.html"/>
+      </navPoint>
+      <navPoint id="navPoint-640">
+        <navLabel>
+         <text>633 · 脱离家族</text>
+        </navLabel>
+        <content src="05/633.html"/>
+      </navPoint>
+      <navPoint id="navPoint-641">
+        <navLabel>
+         <text>634 · 新的身份证</text>
+        </navLabel>
+        <content src="05/634.html"/>
+      </navPoint>
+      <navPoint id="navPoint-642">
+        <navLabel>
+         <text>635 · 重新开始的生活（上）</text>
+        </navLabel>
+        <content src="05/635.html"/>
+      </navPoint>
+      <navPoint id="navPoint-643">
+        <navLabel>
+         <text>636 · 重新开始的生活（下）</text>
+        </navLabel>
+        <content src="05/636.html"/>
+      </navPoint>
+      <navPoint id="navPoint-644">
+        <navLabel>
+         <text>637 · 母亲孩童时的回忆</text>
+        </navLabel>
+        <content src="05/637.html"/>
+      </navPoint>
+      <navPoint id="navPoint-645">
+        <navLabel>
+         <text>638 · 迎着朝阳</text>
+        </navLabel>
+        <content src="05/638.html"/>
+      </navPoint>
+      <navPoint id="navPoint-646">
+        <navLabel>
+         <text>639 · 表哥们的恶趣味</text>
+        </navLabel>
+        <content src="05/639.html"/>
+      </navPoint>
+      <navPoint id="navPoint-647">
+        <navLabel>
+         <text>640 · 下身插棒棒的邪恶少女</text>
+        </navLabel>
+        <content src="05/640.html"/>
+      </navPoint>
+      <navPoint id="navPoint-648">
+        <navLabel>
+         <text>641 · 美食街</text>
+        </navLabel>
+        <content src="05/641.html"/>
+      </navPoint>
+      <navPoint id="navPoint-649">
+        <navLabel>
+         <text>642 · 莫空的小木屋</text>
+        </navLabel>
+        <content src="05/642.html"/>
+      </navPoint>
+      <navPoint id="navPoint-650">
+        <navLabel>
+         <text>643 · 2008 年的春节（上）</text>
+        </navLabel>
+        <content src="05/643.html"/>
+      </navPoint>
+      <navPoint id="navPoint-651">
+        <navLabel>
+         <text>644 · 2008 年的春节（下）</text>
+        </navLabel>
+        <content src="05/644.html"/>
+      </navPoint>
+      <navPoint id="navPoint-652">
+        <navLabel>
+         <text>645 · 花莲高中</text>
+        </navLabel>
+        <content src="05/645.html"/>
+      </navPoint>
+      <navPoint id="navPoint-653">
+        <navLabel>
+         <text>646 · 400 米短跑</text>
+        </navLabel>
+        <content src="05/646.html"/>
+      </navPoint>
+      <navPoint id="navPoint-654">
+        <navLabel>
+         <text>647 · 自带的便当</text>
+        </navLabel>
+        <content src="05/647.html"/>
+      </navPoint>
+      <navPoint id="navPoint-655">
+        <navLabel>
+         <text>648 · 依赖</text>
+        </navLabel>
+        <content src="05/648.html"/>
+      </navPoint>
+      <navPoint id="navPoint-656">
+        <navLabel>
+         <text>649 · 回小城市看看（上）</text>
+        </navLabel>
+        <content src="05/649.html"/>
+      </navPoint>
+      <navPoint id="navPoint-657">
+        <navLabel>
+         <text>650 · 回小城市看看（下）</text>
+        </navLabel>
+        <content src="05/650.html"/>
+      </navPoint>
+      <navPoint id="navPoint-658">
+        <navLabel>
+         <text>651 · 孤儿院（一）</text>
+        </navLabel>
+        <content src="05/651.html"/>
+      </navPoint>
+      <navPoint id="navPoint-659">
+        <navLabel>
+         <text>652 · 孤儿院（二）</text>
+        </navLabel>
+        <content src="05/652.html"/>
+      </navPoint>
+      <navPoint id="navPoint-660">
+        <navLabel>
+         <text>653 · 孤儿院（三）</text>
+        </navLabel>
+        <content src="05/653.html"/>
+      </navPoint>
+      <navPoint id="navPoint-661">
+        <navLabel>
+         <text>654 · 孤儿院（四）</text>
+        </navLabel>
+        <content src="05/654.html"/>
+      </navPoint>
+      <navPoint id="navPoint-662">
+        <navLabel>
+         <text>655 · 孤儿院（五）</text>
+        </navLabel>
+        <content src="05/655.html"/>
+      </navPoint>
+      <navPoint id="navPoint-663">
+        <navLabel>
+         <text>656 · 孤儿院（六）</text>
+        </navLabel>
+        <content src="05/656.html"/>
+      </navPoint>
+      <navPoint id="navPoint-664">
+        <navLabel>
+         <text>657 · 莫语默，我们的女儿</text>
+        </navLabel>
+        <content src="05/657.html"/>
+      </navPoint>
+      <navPoint id="navPoint-665">
+        <navLabel>
+         <text>658 · 一年又一年</text>
+        </navLabel>
+        <content src="05/658.html"/>
+      </navPoint>
+      <navPoint id="navPoint-666">
+        <navLabel>
+         <text>659 · 在哪里举办婚礼</text>
+        </navLabel>
+        <content src="05/659.html"/>
+      </navPoint>
+      <navPoint id="navPoint-667">
+        <navLabel>
+         <text>660 · 被解开了的梦</text>
+        </navLabel>
+        <content src="05/660.html"/>
+      </navPoint>
+      <navPoint id="navPoint-668">
+        <navLabel>
+         <text>661 · 婚礼（上）</text>
+        </navLabel>
+        <content src="05/661.html"/>
+      </navPoint>
+      <navPoint id="navPoint-669">
+        <navLabel>
+         <text>662 · 婚礼（下）</text>
+        </navLabel>
+        <content src="05/662.html"/>
+      </navPoint>
+      <navPoint id="navPoint-670">
+        <navLabel>
+         <text>663 · 这就是爱情</text>
+        </navLabel>
+        <content src="05/663.html"/>
+      </navPoint>
+      <navPoint id="navPoint-671">
+        <navLabel>
+         <text>664 · 一家三口</text>
+        </navLabel>
+        <content src="05/664.html"/>
+      </navPoint>
+      <navPoint id="navPoint-672">
+        <navLabel>
+         <text>665 · 来生缘（大结局）</text>
+        </navLabel>
+        <content src="05/665.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-673">
+      <navLabel>
+       <text>外传</text>
+      </navLabel>
+      <content src="06/index.html"/>
+      <navPoint id="navPoint-674">
+        <navLabel>
+         <text>如果有来世，我想做个女孩子</text>
+        </navLabel>
+        <content src="06/001.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-675">
+      <navLabel>
+       <text>抓不住的幸福 · 方莜莜篇</text>
+      </navLabel>
+      <content src="07/index.html"/>
+      <navPoint id="navPoint-676">
+        <navLabel>
+         <text>方莜莜和安念的故事（一）</text>
+        </navLabel>
+        <content src="07/001.html"/>
+      </navPoint>
+      <navPoint id="navPoint-677">
+        <navLabel>
+         <text>方莜莜和安念的故事（二）</text>
+        </navLabel>
+        <content src="07/002.html"/>
+      </navPoint>
+      <navPoint id="navPoint-678">
+        <navLabel>
+         <text>方莜莜和安念的故事（三）</text>
+        </navLabel>
+        <content src="07/003.html"/>
+      </navPoint>
+      <navPoint id="navPoint-679">
+        <navLabel>
+         <text>方莜莜和安念的故事（四）</text>
+        </navLabel>
+        <content src="07/004.html"/>
+      </navPoint>
+      <navPoint id="navPoint-680">
+        <navLabel>
+         <text>方莜莜和安念的故事（五）</text>
+        </navLabel>
+        <content src="07/005.html"/>
+      </navPoint>
+      <navPoint id="navPoint-681">
+        <navLabel>
+         <text>方莜莜和安念的故事（六）</text>
+        </navLabel>
+        <content src="07/006.html"/>
+      </navPoint>
+      <navPoint id="navPoint-682">
+        <navLabel>
+         <text>方莜莜和安念的故事（七）</text>
+        </navLabel>
+        <content src="07/007.html"/>
+      </navPoint>
+      <navPoint id="navPoint-683">
+        <navLabel>
+         <text>方莜莜和安念的故事（八）</text>
+        </navLabel>
+        <content src="07/008.html"/>
+      </navPoint>
+      <navPoint id="navPoint-684">
+        <navLabel>
+         <text>方莜莜和安念的故事（九）</text>
+        </navLabel>
+        <content src="07/009.html"/>
+      </navPoint>
+      <navPoint id="navPoint-685">
+        <navLabel>
+         <text>方莜莜和安念的故事（十）</text>
+        </navLabel>
+        <content src="07/010.html"/>
+      </navPoint>
+      <navPoint id="navPoint-686">
+        <navLabel>
+         <text>方莜莜和安念的故事（十一）</text>
+        </navLabel>
+        <content src="07/011.html"/>
+      </navPoint>
+      <navPoint id="navPoint-687">
+        <navLabel>
+         <text>方莜莜和安念的故事（十二）</text>
+        </navLabel>
+        <content src="07/012.html"/>
+      </navPoint>
+      <navPoint id="navPoint-688">
+        <navLabel>
+         <text>方莜莜和安念的故事（十三）</text>
+        </navLabel>
+        <content src="07/013.html"/>
+      </navPoint>
+      <navPoint id="navPoint-689">
+        <navLabel>
+         <text>方莜莜和安念的故事（十四）</text>
+        </navLabel>
+        <content src="07/014.html"/>
+      </navPoint>
+      <navPoint id="navPoint-690">
+        <navLabel>
+         <text>方莜莜和安念的故事（十五）</text>
+        </navLabel>
+        <content src="07/015.html"/>
+      </navPoint>
+      <navPoint id="navPoint-691">
+        <navLabel>
+         <text>方莜莜和安念的故事（十六）</text>
+        </navLabel>
+        <content src="07/016.html"/>
+      </navPoint>
+      <navPoint id="navPoint-692">
+        <navLabel>
+         <text>方莜莜和安念的故事（十七）</text>
+        </navLabel>
+        <content src="07/017.html"/>
+      </navPoint>
+      <navPoint id="navPoint-693">
+        <navLabel>
+         <text>方莜莜和安念的故事（十八）</text>
+        </navLabel>
+        <content src="07/018.html"/>
+      </navPoint>
+      <navPoint id="navPoint-694">
+        <navLabel>
+         <text>方莜莜和安念的故事（十九）</text>
+        </navLabel>
+        <content src="07/019.html"/>
+      </navPoint>
+      <navPoint id="navPoint-695">
+        <navLabel>
+         <text>方莜莜和安念的故事（二十）</text>
+        </navLabel>
+        <content src="07/020.html"/>
+      </navPoint>
+      <navPoint id="navPoint-696">
+        <navLabel>
+         <text>方莜莜和安念的故事（二十一）</text>
+        </navLabel>
+        <content src="07/021.html"/>
+      </navPoint>
+      <navPoint id="navPoint-697">
+        <navLabel>
+         <text>方莜莜和安念的故事（二十二）</text>
+        </navLabel>
+        <content src="07/022.html"/>
+      </navPoint>
+      <navPoint id="navPoint-698">
+        <navLabel>
+         <text>方莜莜和安念的故事（二十三）</text>
+        </navLabel>
+        <content src="07/023.html"/>
+      </navPoint>
+      <navPoint id="navPoint-699">
+        <navLabel>
+         <text>方莜莜和安念的故事（二十四）</text>
+        </navLabel>
+        <content src="07/024.html"/>
+      </navPoint>
+      <navPoint id="navPoint-700">
+        <navLabel>
+         <text>方莜莜和安念的故事（二十五）</text>
+        </navLabel>
+        <content src="07/025.html"/>
+      </navPoint>
+      <navPoint id="navPoint-701">
+        <navLabel>
+         <text>方莜莜和安念的故事（二十六）</text>
+        </navLabel>
+        <content src="07/026.html"/>
+      </navPoint>
+      <navPoint id="navPoint-702">
+        <navLabel>
+         <text>方莜莜和安念的故事（二十七）</text>
+        </navLabel>
+        <content src="07/027.html"/>
+      </navPoint>
+      <navPoint id="navPoint-703">
+        <navLabel>
+         <text>方莜莜和安念的故事（二十八）</text>
+        </navLabel>
+        <content src="07/028.html"/>
+      </navPoint>
+      <navPoint id="navPoint-704">
+        <navLabel>
+         <text>方莜莜和安念的故事（二十九）</text>
+        </navLabel>
+        <content src="07/029.html"/>
+      </navPoint>
+      <navPoint id="navPoint-705">
+        <navLabel>
+         <text>方莜莜和安念的故事（三十）</text>
+        </navLabel>
+        <content src="07/030.html"/>
+      </navPoint>
+      <navPoint id="navPoint-706">
+        <navLabel>
+         <text>方莜莜和安念的故事（三十一）</text>
+        </navLabel>
+        <content src="07/031.html"/>
+      </navPoint>
+      <navPoint id="navPoint-707">
+        <navLabel>
+         <text>方莜莜和安念的故事（三十二）</text>
+        </navLabel>
+        <content src="07/032.html"/>
+      </navPoint>
+      <navPoint id="navPoint-708">
+        <navLabel>
+         <text>终章（上）</text>
+        </navLabel>
+        <content src="07/033.html"/>
+      </navPoint>
+      <navPoint id="navPoint-709">
+        <navLabel>
+         <text>终章（下）</text>
+        </navLabel>
+        <content src="07/034.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-710">
+      <navLabel>
+       <text>番外 · 假如一切都还在</text>
+      </navLabel>
+      <content src="08/index.html"/>
+      <navPoint id="navPoint-711">
+        <navLabel>
+         <text>1 · 胡玉牛还在</text>
+        </navLabel>
+        <content src="08/001.html"/>
+      </navPoint>
+      <navPoint id="navPoint-712">
+        <navLabel>
+         <text>2 · 没有仇恨</text>
+        </navLabel>
+        <content src="08/002.html"/>
+      </navPoint>
+      <navPoint id="navPoint-713">
+        <navLabel>
+         <text>3 · 不过从头再来</text>
+        </navLabel>
+        <content src="08/003.html"/>
+      </navPoint>
+      <navPoint id="navPoint-714">
+        <navLabel>
+         <text>4 · 夕子姐姐，我和你一起回去</text>
+        </navLabel>
+        <content src="08/004.html"/>
+      </navPoint>
+      <navPoint id="navPoint-715">
+        <navLabel>
+         <text>5 · 不要放弃</text>
+        </navLabel>
+        <content src="08/005.html"/>
+      </navPoint>
+      <navPoint id="navPoint-716">
+        <navLabel>
+         <text>6 · 我会娶你</text>
+        </navLabel>
+        <content src="08/006.html"/>
+      </navPoint>
+      <navPoint id="navPoint-717">
+        <navLabel>
+         <text>7 · 不准走</text>
+        </navLabel>
+        <content src="08/007.html"/>
+      </navPoint>
+      <navPoint id="navPoint-718">
+        <navLabel>
+         <text>8 · 至少，大家都还在</text>
+        </navLabel>
+        <content src="08/008.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-719">
+      <navLabel>
+       <text>番外 · 在故事开始之前的故事</text>
+      </navLabel>
+      <content src="09/index.html"/>
+      <navPoint id="navPoint-720">
+        <navLabel>
+         <text>1 · 萌芽</text>
+        </navLabel>
+        <content src="09/001.html"/>
+      </navPoint>
+      <navPoint id="navPoint-721">
+        <navLabel>
+         <text>2 · 少年宫</text>
+        </navLabel>
+        <content src="09/002.html"/>
+      </navPoint>
+      <navPoint id="navPoint-722">
+        <navLabel>
+         <text>3 · 巧克力派</text>
+        </navLabel>
+        <content src="09/003.html"/>
+      </navPoint>
+      <navPoint id="navPoint-723">
+        <navLabel>
+         <text>4 · 人妖表演</text>
+        </navLabel>
+        <content src="09/004.html"/>
+      </navPoint>
+      <navPoint id="navPoint-724">
+        <navLabel>
+         <text>5 · 买药</text>
+        </navLabel>
+        <content src="09/005.html"/>
+      </navPoint>
+      <navPoint id="navPoint-725">
+        <navLabel>
+         <text>6 · 偷窥洗澡（上）</text>
+        </navLabel>
+        <content src="09/006.html"/>
+      </navPoint>
+      <navPoint id="navPoint-726">
+        <navLabel>
+         <text>7 · 偷窥洗澡（下）</text>
+        </navLabel>
+        <content src="09/007.html"/>
+      </navPoint>
+      <navPoint id="navPoint-727">
+        <navLabel>
+         <text>8 · 女装</text>
+        </navLabel>
+        <content src="09/008.html"/>
+      </navPoint>
+      <navPoint id="navPoint-728">
+        <navLabel>
+         <text>9 · 莫空的旅行</text>
+        </navLabel>
+        <content src="09/009.html"/>
+      </navPoint>
+      <navPoint id="navPoint-729">
+        <navLabel>
+         <text>10 · 曲奇的故事（上）</text>
+        </navLabel>
+        <content src="09/010.html"/>
+      </navPoint>
+      <navPoint id="navPoint-730">
+        <navLabel>
+         <text>11 · 曲奇的故事（中）</text>
+        </navLabel>
+        <content src="09/011.html"/>
+      </navPoint>
+      <navPoint id="navPoint-731">
+        <navLabel>
+         <text>12 · 曲奇的故事（下）</text>
+        </navLabel>
+        <content src="09/012.html"/>
+      </navPoint>
+      <navPoint id="navPoint-732">
+        <navLabel>
+         <text>13 · 莫空和曲奇的故事（上）</text>
+        </navLabel>
+        <content src="09/013.html"/>
+      </navPoint>
+      <navPoint id="navPoint-733">
+        <navLabel>
+         <text>14 · 莫空和曲奇的故事（中）</text>
+        </navLabel>
+        <content src="09/014.html"/>
+      </navPoint>
+      <navPoint id="navPoint-734">
+        <navLabel>
+         <text>15 · 莫空和曲奇的故事（下）</text>
+        </navLabel>
+        <content src="09/015.html"/>
+      </navPoint>
+      <navPoint id="navPoint-735">
+        <navLabel>
+         <text>16 · 张思凡的故事（上）</text>
+        </navLabel>
+        <content src="09/016.html"/>
+      </navPoint>
+      <navPoint id="navPoint-736">
+        <navLabel>
+         <text>17 · 张思凡的故事（中）</text>
+        </navLabel>
+        <content src="09/017.html"/>
+      </navPoint>
+      <navPoint id="navPoint-737">
+        <navLabel>
+         <text>18 · 张思凡的故事（下）</text>
+        </navLabel>
+        <content src="09/018.html"/>
+      </navPoint>
+      <navPoint id="navPoint-738">
+        <navLabel>
+         <text>19 · 曲奇和咖啡的故事</text>
+        </navLabel>
+        <content src="09/019.html"/>
+      </navPoint>
+      <navPoint id="navPoint-739">
+        <navLabel>
+         <text>20 · 胡玉牛的往事</text>
+        </navLabel>
+        <content src="09/020.html"/>
+      </navPoint>
+      <navPoint id="navPoint-740">
+        <navLabel>
+         <text>21 · 父母的保护</text>
+        </navLabel>
+        <content src="09/021.html"/>
+      </navPoint>
+      <navPoint id="navPoint-741">
+        <navLabel>
+         <text>22 · 方莜莜和她的前男友</text>
+        </navLabel>
+        <content src="09/022.html"/>
+      </navPoint>
+      <navPoint id="navPoint-742">
+        <navLabel>
+         <text>23 · 林夕晨的过去</text>
+        </navLabel>
+        <content src="09/023.html"/>
+      </navPoint>
+      <navPoint id="navPoint-743">
+        <navLabel>
+         <text>24 · 莫空的幼年</text>
+        </navLabel>
+        <content src="09/024.html"/>
+      </navPoint>
+      <navPoint id="navPoint-744">
+        <navLabel>
+         <text>25 · 拜佛</text>
+        </navLabel>
+        <content src="09/025.html"/>
+      </navPoint>
+      <navPoint id="navPoint-745">
+        <navLabel>
+         <text>26 · 年少时的天语遥</text>
+        </navLabel>
+        <content src="09/026.html"/>
+      </navPoint>
+      <navPoint id="navPoint-746">
+        <navLabel>
+         <text>27 · 天冲云救美</text>
+        </navLabel>
+        <content src="09/027.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-747">
+      <navLabel>
+       <text>番外 · 在故事之外的故事</text>
+      </navLabel>
+      <content src="10/index.html"/>
+      <navPoint id="navPoint-748">
+        <navLabel>
+         <text>1 · 林夕晨（一）</text>
+        </navLabel>
+        <content src="10/001.html"/>
+      </navPoint>
+      <navPoint id="navPoint-749">
+        <navLabel>
+         <text>2 · 林夕晨（二）</text>
+        </navLabel>
+        <content src="10/002.html"/>
+      </navPoint>
+      <navPoint id="navPoint-750">
+        <navLabel>
+         <text>3 · 苏雨晴（一）</text>
+        </navLabel>
+        <content src="10/003.html"/>
+      </navPoint>
+      <navPoint id="navPoint-751">
+        <navLabel>
+         <text>4 · 苏雨晴（二）</text>
+        </navLabel>
+        <content src="10/004.html"/>
+      </navPoint>
+      <navPoint id="navPoint-752">
+        <navLabel>
+         <text>5 · 张思凡</text>
+        </navLabel>
+        <content src="10/005.html"/>
+      </navPoint>
+      <navPoint id="navPoint-753">
+        <navLabel>
+         <text>6 · 天语遥</text>
+        </navLabel>
+        <content src="10/006.html"/>
+      </navPoint>
+      <navPoint id="navPoint-754">
+        <navLabel>
+         <text>7 · 胡玉牛</text>
+        </navLabel>
+        <content src="10/007.html"/>
+      </navPoint>
+      <navPoint id="navPoint-755">
+        <navLabel>
+         <text>8 · 方莜莜</text>
+        </navLabel>
+        <content src="10/008.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-756">
+      <navLabel>
+       <text>后记</text>
+      </navLabel>
+      <content src="afterword.html"/>
+    </navPoint>
+    <navPoint id="navPoint-757">
+      <navLabel>
+       <text>插画</text>
+      </navLabel>
+      <content src="illustrations.html"/>
+    </navPoint>
+  </navMap>
+</ncx>
