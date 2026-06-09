@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>yn类小说</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            /* 使用渐变背景 */
+            background: linear-gradient(45deg, #87CEEB, #FFB6C1, #ffffff, #FFB6C1, #87CEEB);
+            background-size: 400% 400%;
+            animation: gradient 15s ease infinite; /* 添加动画使渐变流动 */
+            backdrop-filter: blur(10px); /* 添加模糊滤镜实现朦胧感 */
+            color: #ccc;
+        }
+
+        @keyframes gradient {
+            0% {
+                background-position: 0% 50%;
+            }
+            50% {
+                background-position: 100% 50%;
+            }
+            100% {
+                background-position: 0% 50%;
+            }
+        }
+
+        .container {
+            max-width: 600px;
+            margin: 50px auto;
+            padding: 30px;
+            background-color: rgba(0, 0, 0, 0.6);
+            border-radius: 10px;
+            box-shadow: 0 0 20px rgba(0, 0, 0, 0.8);
+        }
+
+        .file-list {
+            list-style-type: none;
+            padding: 0;
+        }
+
+        .file-list li {
+            margin: 20px 0;
+        }
+
+        .file-list a {
+            text-decoration: none;
+            color: #87CEEB;
+            font-weight: bold;
+            transition: color 0.3s ease;
+        }
+
+        .file-list a:hover {
+            color: #00BFFF;
+            text-decoration: underline;
+        }
+
+        h1 {
+            text-align: center;
+            color: #87CEEB;
+            text-shadow: 0 0 10px rgba(135, 206, 235, 0.5);
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>小说列表</h1>
+        <p></p>
+        <ul class="file-list">
+            <li><a href="angel/bug.html" target="_blank">天使的彼岸花园</a></li>
+            <li><a href="transky/nav.html" target="_blank">药娘的天空</a></li>
+        </ul>
+    </div>
+</body>
+</html>
