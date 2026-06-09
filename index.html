@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>worldmiku的小窝</title>
+    <style>
+        /* 重置默认样式 */
+        body,
+        h1,
+        p,
+        ul,
+        li,
+        a {
+            margin: 0;
+            padding: 0;
+            text-decoration: none;
+        }
+
+        /* 全局样式 */
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(to bottom, #0a0a1a, #1a1a3a); /* 更深的深蓝色渐变 */
+            background-size: cover;
+            background-position: center;
+            color: #e0e0ff;
+            line-height: 1.6;
+            position: relative;
+            overflow-x: hidden;
+        }
+
+        /* 银河背景 */
+        .galaxy {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-image: 
+                radial-gradient(circle at 25% 25%, rgba(255, 255, 255, 0.1) 1px, transparent 1px),
+                radial-gradient(circle at 75% 75%, rgba(255, 255, 255, 0.1) 1px, transparent 1px),
+                radial-gradient(circle at 50% 50%, rgba(255, 255, 255, 0.05) 1px, transparent 1px);
+            background-size: 200px 200px, 300px 300px, 250px 250px;
+            background-position: 0 0, 50px 50px, 100px 100px;
+            z-index: 0;
+        }
+
+        /* 流星动画 */
+        .meteor {
+            position: absolute;
+            width: 2px;
+            height: 100px;
+            background: linear-gradient(to bottom, transparent, rgba(255, 255, 255, 0.8));
+            transform-origin: top center;
+            animation: meteor 5s linear infinite;
+            opacity: 0;
+            z-index: 1;
+        }
+
+        @keyframes meteor {
+            0% {
+                transform: translateY(-100px) rotate(45deg);
+                opacity: 0;
+            }
+            10% {
+                opacity: 1;
+            }
+            30% {
+                opacity: 1;
+            }
+            100% {
+                transform: translateY(calc(100vh + 100px)) rotate(45deg);
+                opacity: 0;
+            }
+        }
+
+        /* 星星动画 */
+        .star {
+            position: absolute;
+            border-radius: 50%;
+            animation: twinkle 3s infinite;
+            z-index: 0;
+        }
+
+        @keyframes twinkle {
+            0%, 100% {
+                opacity: 0.3;
+            }
+            50% {
+                opacity: 1;
+                box-shadow: 0 0 10px rgba(255, 255, 255, 0.8);
+            }
+        }
+
+        /* 大星星 */
+        .star-big {
+            width: 3px;
+            height: 3px;
+            background: white;
+        }
+
+        /* 小星星 */
+        .star-small {
+            width: 1px;
+            height: 1px;
+            background: rgba(255, 255, 255, 0.7);
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 40px auto;
+            padding: 20px;
+            background-color: rgba(10, 10, 30, 0.6); /* 更深的半透明背景 */
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            border-radius: 12px;
+            backdrop-filter: blur(8px);
+            position: relative;
+            z-index: 2;
+            box-shadow: 0 0 30px rgba(0, 0, 50, 0.3);
+        }
+
+        h1 {
+            font-size: 2.5em;
+            color: #8a8aff; /* 淡紫色标题 */
+            text-align: center;
+            margin-bottom: 20px;
+            text-shadow: 0 0 10px rgba(138, 138, 255, 0.5),
+                         0 0 20px rgba(138, 138, 255, 0.3);
+            font-weight: 300;
+        }
+
+        p {
+            font-size: 1.1em;
+            text-align: center;
+            margin-bottom: 30px;
+            color: #c0c0ff;
+            text-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+            font-weight: 200;
+        }
+
+        .file-list {
+            list-style-type: none;
+            padding: 0;
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+        }
+
+        .file-list li {
+            margin: 12px;
+            flex: 1 1 180px;
+        }
+
+        .file-list a {
+            display: block;
+            padding: 15px;
+            background: linear-gradient(135deg, rgba(30, 30, 80, 0.7), rgba(20, 20, 60, 0.9));
+            color: #d0d0ff;
+            text-align: center;
+            border-radius: 25px;
+            transition: all 0.3s ease;
+            border: 1px solid rgba(255, 255, 255, 0.05);
+            box-shadow: 0 4px 15px rgba(0, 0, 50, 0.2),
+                        inset 0 1px 0 rgba(255, 255, 255, 0.1);
+            font-weight: 300;
+        }
+
+        .file-list a:hover {
+            transform: translateY(-3px);
+            background: linear-gradient(135deg, rgba(40, 40, 90, 0.8), rgba(30, 30, 70, 0.9));
+            box-shadow: 0 6px 20px rgba(0, 0, 50, 0.3),
+                        inset 0 1px 0 rgba(255, 255, 255, 0.15);
+            color: white;
+        }
+    </style>
+</head>
+
+<body>
+    <!-- 银河背景 -->
+    <div class="galaxy"></div>
+
+    <!-- 随机生成星星 -->
+    <div class="star star-big" style="top: 15%; left: 15%; animation-delay: 0s;"></div>
+    <div class="star star-big" style="top: 30%; left: 80%; animation-delay: 1s;"></div>
+    <div class="star star-big" style="top: 70%; left: 25%; animation-delay: 2s;"></div>
+    <div class="star star-big" style="top: 85%; left: 70%; animation-delay: 1.5s;"></div>
+    <div class="star star-small" style="top: 20%; left: 40%; animation-delay: 0.5s;"></div>
+    <div class="star star-small" style="top: 45%; left: 60%; animation-delay: 1.2s;"></div>
+    <div class="star star-small" style="top: 65%; left: 45%; animation-delay: 0.8s;"></div>
+    <div class="star star-small" style="top: 50%; left: 20%; animation-delay: 2.1s;"></div>
+    <div class="star star-small" style="top: 35%; left: 55%; animation-delay: 1.7s;"></div>
+    <div class="star star-small" style="top: 75%; left: 65%; animation-delay: 0.3s;"></div>
+    <div class="star star-small" style="top: 10%; left: 60%; animation-delay: 1.9s;"></div>
+    <div class="star star-small" style="top: 80%; left: 30%; animation-delay: 0.7s;"></div>
+
+    <!-- 流星 -->
+    <div class="meteor" style="top: 10%; left: 90%; animation-delay: 3s;"></div>
+    <div class="meteor" style="top: 5%; left: 85%; animation-delay: 7s;"></div>
+    <div class="meteor" style="top: 15%; left: 95%; animation-delay: 12s;"></div>
+
+    <div class="container">
+        <h1>worldmiku的小窝</h1>
+        <p>欢迎来到我的小窝，这里有各种有趣的内容等着你！</p>
+        <ul class="file-list">
+            <li><a href="music/music.html" target="_blank">音乐天地</a></li>
+            <li><a href="video/video.html" target="_blank">在线影院</a></li>
+            <li><a href="novel/novel.html" target="_blank">小说</a></li>
+            <li><a href="photo/photo.html" target="_blank">画画</a></li>
+            <li><a href="save/save.html" target="_blank">网盘服务</a></li>
+            <li><a href="ask/ask.html" target="_blank">留言板</a></li>
+            <li><a href="news/new.html" target="_blank">更新日志</a></li>
+            <li><a href="video/2.mp4" target="_blank">壁纸</a></li>
+            <li><a href="1.apk" target="_blank">lantest</a></li>
+        </ul>
+    </div>
+</body>
+
+</html>    
