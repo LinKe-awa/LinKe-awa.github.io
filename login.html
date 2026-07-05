@@ -43,7 +43,7 @@ button:hover { background: #5a6fd6; }
 </style>
 </head>
 <body>
-<h2>🔒 请输入密码</h2>
+<h2>请输入密码</h2>
 <input type="password" id="pwd" placeholder="密码" onkeydown="if(event.key==='Enter')check()">
 <button onclick="check()">进入</button>
 <div id="msg"></div>
@@ -51,8 +51,8 @@ button:hover { background: #5a6fd6; }
 <script>
 function check() {
     const pwd = document.getElementById("pwd").value;
-    if (pwd === "123456") {
-        window.location.href = "ice_cream_v4.html";
+    if (pwd === "114514") {
+        window.location.href = "cjbv3.html";
     } else {
         document.getElementById("msg").textContent = "密码错误";
         document.getElementById("pwd").value = "";
