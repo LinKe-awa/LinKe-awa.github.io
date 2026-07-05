@@ -1,0 +1,277 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>吃雪糕</title>
+<style>
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    background: #222;
+    font-family: sans-serif;
+    gap: 15px;
+}
+.stage {
+    position: relative;
+    width: 300px;
+    height: 300px;
+}
+.avatar {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    overflow: hidden;
+    border: 3px solid #555;
+    z-index: 2;
+}
+.avatar img { width: 100%; height: 100%; object-fit: cover; }
+.ice {
+    position: absolute;
+    left: 50%;
+    bottom: -30%;
+    transform: translateX(-50%);
+    width: 100px;
+    height: 160px;
+    z-index: 1;
+}
+.ice img { width: 100%; height: 100%; object-fit: contain; }
+.ice.eat {
+    animation: eat 1s ease-in-out;
+}
+@keyframes eat {
+    0%   { bottom: 15%; }
+    50%  { bottom: 42%; }
+    100% { bottom: 15%; }
+}
+.spray-container {
+    position: absolute;
+    top: 0; left: 0;
+    width: 100%; height: 100%;
+    pointer-events: none;
+    z-index: 10;
+}
+.spray-particle {
+    position: absolute;
+    width: 35px; height: 35px;
+    border-radius: 50%;
+    overflow: hidden;
+    opacity: 0;
+    left: 50%; top: 62%;
+}
+.spray-particle img { width: 100%; height: 100%; object-fit: cover; opacity: 0.6; }
+.spray-particle.active {
+    animation: spray 0.8s ease-out forwards;
+}
+@keyframes spray {
+    0%   { opacity: 0.6; transform: translate(-50%, -50%) scale(0.3); }
+    100% { opacity: 0.6; transform: translate(var(--tx), var(--ty)) scale(1) rotate(var(--rot)); }
+}
+.bubble {
+    position: absolute;
+    right: -20px;
+    top: 20%;
+    background: #fff;
+    color: #222;
+    padding: 10px 15px;
+    border-radius: 15px;
+    font-size: 0.85rem;
+    max-width: 140px;
+    opacity: 0;
+    transform: scale(0);
+    transition: all 0.3s ease;
+    z-index: 20;
+    pointer-events: none;
+}
+.bubble::after {
+    content: '';
+    position: absolute;
+    left: -8px;
+    top: 50%;
+    transform: translateY(-50%);
+    border: 8px solid transparent;
+    border-right-color: #fff;
+}
+.bubble.show {
+    opacity: 1;
+    transform: scale(1);
+}
+.bar-box {
+    width: 300px;
+    height: 8px;
+    background: #444;
+    border-radius: 4px;
+    overflow: hidden;
+}
+.bar-fill {
+    height: 100%;
+    width: 0%;
+    background: #4caf50;
+    border-radius: 4px;
+    transition: width 0.3s ease;
+}
+.bar-text {
+    color: #888;
+    font-size: 0.8rem;
+    margin-top: 4px;
+}
+.btns { display: flex; gap: 15px; }
+.btn {
+    padding: 10px 30px;
+    border: none;
+    border-radius: 25px;
+    color: #fff;
+    font-size: 1rem;
+    cursor: pointer;
+}
+.btn-eat { background: #667eea; }
+.btn-spray { background: #f5576c; }
+.btn:disabled { opacity: 0.5; cursor: not-allowed; }
+.white-flash {
+    position: fixed;
+    top: 0; left: 0;
+    width: 100%; height: 100%;
+    background: #fff;
+    opacity: 0;
+    pointer-events: none;
+    z-index: 9999;
+}
+.white-flash.on {
+    animation: flashSlow 3s ease-in-out;
+}
+@keyframes flashSlow {
+    0%, 100% { opacity: 0; }
+    20% { opacity: 0.9; }
+    40% { opacity: 0.3; }
+    60% { opacity: 0.8; }
+    80% { opacity: 0.2; }
+}
+</style>
+</head>
+<body>
+
+<div class="stage">
+    <div class="avatar">
+        <img id="avatarImg" src="">
+        <div class="bubble" id="bubble"></div>
+    </div>
+    <div class="ice" id="ice"><img id="iceImg" src=""></div>
+    <div class="spray-container" id="sprayBox"></div>
+</div>
+
+<div class="bar-box"><div class="bar-fill" id="barFill"></div></div>
+<div class="bar-text" id="barText">0 / 100</div>
+
+<div class="btns">
+    <button class="btn btn-eat" id="btnEat" onclick="eat()">开吃</button>
+    <button class="btn btn-spray" id="btnSpray" onclick="spray()">喷发</button>
+</div>
+
+<div class="white-flash" id="whiteFlash"></div>
+
+<script>
+// ========== 在这里修改图片路径 ==========
+const avatarSrc = "ren.png";
+const iceCreamSrc = "ji.png";
+const spraySrc = "jing.png";
+// ========================================
+
+document.getElementById("avatarImg").src = avatarSrc;
+document.getElementById("iceImg").src = iceCreamSrc;
+
+let busy = false;
+let count = 0;
+let eatCount = 0;
+let nextBubble = 3 + Math.floor(Math.random() * 4); // 3~6
+
+const quotes = [
+    "好吃！",
+    "再来一口！",
+    "冰冰凉凉的~",
+    "这味道绝了！",
+    "根本停不下来！"
+];
+
+function updateBar() {
+    const pct = Math.min(count, 100);
+    document.getElementById("barFill").style.width = pct + "%";
+    document.getElementById("barText").textContent = pct + " / 100";
+    if (pct >= 100) {
+        document.getElementById("whiteFlash").classList.add("on");
+        setTimeout(() => {
+            document.getElementById("whiteFlash").classList.remove("on");
+        }, 3000);
+    }
+}
+
+function showBubble() {
+    const bubble = document.getElementById("bubble");
+    bubble.textContent = quotes[Math.floor(Math.random() * quotes.length)];
+    bubble.classList.add("show");
+    setTimeout(() => bubble.classList.remove("show"), 2000);
+}
+
+function eat() {
+    if (busy) return;
+    busy = true;
+    eatCount++;
+    count = Math.min(count + 5, 100);
+    updateBar();
+
+    if (eatCount >= nextBubble) {
+        showBubble();
+        eatCount = 0;
+        nextBubble = 3 + Math.floor(Math.random() * 4);
+    }
+
+    const ice = document.getElementById("ice");
+    ice.classList.remove("eat");
+    void ice.offsetWidth;
+    ice.classList.add("eat");
+    document.getElementById("btnEat").disabled = true;
+    setTimeout(() => {
+        ice.classList.remove("eat");
+        document.getElementById("btnEat").disabled = false;
+        busy = false;
+    }, 1000);
+}
+
+function spray() {
+    if (busy) return;
+    busy = true;
+    count = Math.min(count + 10, 100);
+    updateBar();
+
+    const box = document.getElementById("sprayBox");
+    document.getElementById("btnSpray").disabled = true;
+    for (let i = 0; i < 20; i++) {
+        const p = document.createElement("div");
+        p.className = "spray-particle";
+        const img = document.createElement("img");
+        img.src = spraySrc;
+        p.appendChild(img);
+        const a = (Math.PI * 2 * i) / 20 + (Math.random() - 0.5) * 0.4;
+        const d = 60 + Math.random() * 90;
+        p.style.setProperty("--tx", Math.cos(a) * d + "px");
+        p.style.setProperty("--ty", Math.sin(a) * d + "px");
+        p.style.setProperty("--rot", (Math.random() * 720 - 360) + "deg");
+        p.style.animationDelay = (Math.random() * 0.1) + "s";
+        box.appendChild(p);
+        setTimeout(() => p.classList.add("active"), 10);
+    }
+    setTimeout(() => {
+        document.getElementById("btnSpray").disabled = false;
+        busy = false;
+    }, 800);
+}
+</script>
+</body>
+</html>
